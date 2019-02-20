@@ -4,7 +4,7 @@
 %% Put your blog's information here %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-about(title('Put Your Title & whatever Here, in about.prolog'),
-      admin('Put Your Name Here'),
-      domain('localhost:8000'),
-      abstract('Put your abstract in about.prolog.')).
+about(title('Feral Machines'),
+      admin('Lucca Fraser'),
+      domain('fm.infotro.de'),
+      abstract('I\'ll think of something later.')).
