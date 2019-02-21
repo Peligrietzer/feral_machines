@@ -76,3 +76,33 @@ h3 {
     color: #8d8e8c
 }
 
+input {
+    color: #fdfefc;
+    background-color: #444042;
+}
+
+textarea {
+    width: 80%;
+    color: #fdfefc;
+    font-family: Courier;
+    background-color: #444042;
+}
+
+label {
+    font-family: Courier;
+    color: #fdfefc;
+}
+
+.toc_tag_line {
+    font-size: 75%;
+    color: #8d8e8c;
+}
+
+.toc_tag {
+    color: papayawhip;    
+    font-weight: normal;
+}
+
+.toc_tag:hover {
+    color: lightpink;
+}

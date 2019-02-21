@@ -12,4 +12,4 @@ title('Feral Machines').
 admin('Lucca Fraser').
 domain('fm.infotro.de').
 email('oblivia@paranoici.org').
-abstract('I\'ll think of something later.').
+abstract('A wilderness supervening on artifice.').

@@ -1,13 +1,16 @@
 [
 
-entry(file('hello.md'),
+[file('hello.md'),
       title('Hello, World'),
       author(me),
-      abstract('Nothing really at all.')),
+      tags([salutations, test]),
+      abstract('Nothing really at all.')],
 
-entry(file('blah.md'),
+[file('blah.md'),
       title('I do not know'),
       author(me),
-      abstract('Just testing date stamps for uncommitted files'))
+      abstract('Just testing date stamps for uncommitted files'),
+      tags([mindflayer, test]),
+      date('2019-02-17')]
 
 ].
