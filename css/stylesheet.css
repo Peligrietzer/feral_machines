@@ -28,7 +28,8 @@ a.topnav:hover {
 }
 
 pre {
-    line-height: 120%
+    line-height: 100%
+    font-size: 130%;
 }
 
 .container {
@@ -118,4 +119,8 @@ label {
 
 .toc_tag:hover {
     color: lightpink;
+}
+
+img {
+    width: 100%;
 }

@@ -11,5 +11,5 @@
 title('Feral Machines').
 admin('Lucca Fraser').
 domain('fm.infotro.de').
-email('oblivia@paranoici.org').
+email('feral.machines@bastardi.net').
 abstract('A wilderness supervening on artifice.').

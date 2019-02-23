@@ -1,16 +1,46 @@
 [
 
-[file('hello.md'),
-      title('Hello, World'),
-      author(me),
-      tags([salutations, test]),
-      abstract('Nothing really at all.')],
+    [file('hello.md'),
+     title('Hello, World'),
+     author(me),
+     tags([introduction, blogging, prolog, weird_machines, evolution]),
+     abstract('An introduction to the blog.')],
+    
+    [file('spirit_is_a_drider.md'),
+     title('Spirit is a Drider'),
+     author('Peli Grietzer & Lucca Fraser'),
+     tags(['d&d', hegel, psychoanalysis, fantasy]),
+     abstract('On the subject of Elves.'),
+     date('2018-09-01')], % guessing
 
-[file('blah.md'),
-      title('I do not know'),
-      author(me),
-      abstract('Just testing date stamps for uncommitted files'),
-      tags([mindflayer, test]),
-      date('2019-02-17')]
+    [file('blah.md'),
+     title('I do not know'),
+     author(me),
+     abstract('Just testing date stamps for uncommitted files'),
+     tags([mindflayer, test, draft]),
+     date('2019-02-17')],
+ 
+    [file('political_tautologies.md'),
+     title('The Use of Triviality in Reactionary Rhetoric'),
+     abstract('What role do truisms and tauologies play
+               in political rhetoric?'),
+     tags([politics, rhetoric, populism, transphobia, racism, draft])],
+
+    [file('evolution_and_weird_machines.md'),
+     title('Evolution and Weird Machines'),
+     abstract('Why are evolutionary techniques well-suited to the
+               exploration of weird machines?'),
+     tags([genetic_programming, weird_machines, exploitation, ai,
+           evolution, draft])],
+
+    [file('virtue_ethics+machine_learning.md'),
+     title('Virtue Ethics as Machine Learning'),
+     abstract('The regions of our moral landscape that incline us
+               towards virtue ethics, rather than deontology or
+               strict consequentialism, as a means of navigation, share
+               features with those regions of problem space that
+               incline us towards the use of machine learning, rather
+               than classical algorithms.'),
+     tags([ethics, ai, virtue, draft])]
 
 ].
