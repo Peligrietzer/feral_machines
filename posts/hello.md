@@ -9,15 +9,15 @@ sidelines, one or two false starts aside.
 
 After 2013, it seemed, the old enthusiasm for the medium had faded. Maybe it
 was just a matter of pacing. Social media -- facebook & twitter, chiefly --
-drew the discourse into its accelerators, and as we became accustomed to
-its frantic speed and density, the blogosphere of a few years prior just didn't
-scratch the itch. The mood now, at least from here, feels a bit like
-a dopamine [hangover](https://www.youtube.com/watch?v=DikWW4pOehk). What I
-seem to feel nowadays, when I open up facebook or twitter, is a kind of
-dutiful weariness. I'm glad those media are there, as a way of keeping in
-touch with friends that would otherwise be hard to reach, but the joy of 
-the media themselves is just... *gone* for me. I can never really drum up
-a motive to post there, anymore. 
+drew the discourse into its acceleration chambers, and as we became accustomed to
+its frantic speed and density, I suppose the blogosphere of a few years prior
+just didn't scratch the itch. The mood now, at least from here, feels a bit like
+a dopamine [hangover](https://www.youtube.com/watch?v=DikWW4pOehk). What I seem
+to feel nowadays, when I open up facebook or twitter, is a kind of dutiful
+weariness. I'm glad those media are there, as a way of keeping in touch with
+friends that would otherwise be hard to reach, but the joy of the media
+themselves is just... *gone* for me. I can never really drum up a motive to post
+there, anymore.
 
 This isn't at all a bad development. In many ways, it comes as a relief -- *that
 frozen moment when everyone sees what's on the end of every fork*. It seems,
@@ -27,7 +27,7 @@ among other things, a good incentive to take another stab at blogging...
 
 (Why does that line of Burroughs' (or of Kerouac's, as remembered by Burroughs?) 
 feel so appropriate here? Why the "everyone", the "every fork"?
-And why am I writing of the disaffection with
+And why am I writing about my disaffection with
 "social media" as if it's anything but an idiosyncratic itch -- as if I'm
 just giving voice to a Zeitgeist, or, at least, to some
 [20,000 people standing in a field](https://www.youtube.com/watch?v=DikWW4pOehk).
