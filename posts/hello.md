@@ -104,7 +104,7 @@ domains where *programs* -- those paragons of clarity and
 transparency of purpose -- were rife with surprises. 
 
 My interest in security zeroed in on what Halvar Flake named
-["weird machines"](https://en.wikipedia.org/wiki/Weird_machine).
+["weird machines"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8226852).
 These are virtual machines that supervene, spontaneously, and without 
 having ever been *designed*, on deliberately constructed computational
 systems. "Exploitation", at least in its most interesting instances,
