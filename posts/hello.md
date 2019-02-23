@@ -40,7 +40,7 @@ to get some hope of a blogosphere rolling, again.)
 
 ---
 
-Another reason for doing this is just that I *miss writing*. I left the
+Another reason I have for doing this is just that I *miss writing*. I left the
 humanities in 2013, for various reasons, and in 2014 started shifting
 towards tech. I rediscovered a joy in programming that I hadn't touched
 since I was a kid coding in BASIC, and learning that I could indulge in
