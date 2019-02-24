@@ -67,6 +67,8 @@ The article itself presents an excellent dissection of the use of this strategy
 in TERF discourse, with an illuminating detour analysing its analogue in the use
 of the "All Lives Matter" slogan. 
 
+### The Follow-up
+
 We could call this divisive effect on the intended -- generally clueless --
 audience the strategem's **opening move**.
 
@@ -111,6 +113,13 @@ The initial truism, here, which gave Chart her headline, is unfolded into
 a series of no-less absurd particulars -- ten, in this one paragraph, by my
 count.
 
+This style of progression appears to me to be typical of reactionary
+rhetoric. This is not, as someone once said of philosophy, "the process
+whereby one begins with what is obviously true, and proceeds by ineluctable
+steps, to what is obviously false" (I honestly have no memory of who said this).
+The "obvious" content of the slogan is not taken as the premise of a rational
+argument, but as the bait with one is led down a garden path of increasingly
+spurious associations. The playbook, here, is that of the sophist.
 
 ## Leftist Variations
 
