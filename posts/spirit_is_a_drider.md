@@ -1,6 +1,6 @@
 # Spirit is a Drider
 
-![drider](/content/img/Drider.PNG)
+![drider](/img/Drider.PNG)
 
 ---
 
@@ -74,4 +74,4 @@ it seriously does!
 
 ---
 
-![Lolth](/content/img/Lolth.PNG)
+![Lolth](/img/Lolth.PNG)

@@ -1,3 +1,3 @@
 # Look at this fucking mind flayer
 
-![mind flayer](/content/img/mindflayer.gif)
+![mind flayer](/img/mindflayer.gif)
