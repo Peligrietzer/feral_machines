@@ -1,3 +1,5 @@
+# DRAFT
+
 # On the Use of Quasi-Tautologies and Truisms in Political Discourse
 
 Every now and then, I'm reminded of something I must have read
@@ -139,14 +141,14 @@ power of the statement's tautological *form* is leveraged, here, in order to
 bring a certain dissonance to the fore -- in order to make strange the fact
 that it needs to be said at all. 
 
-So little can "trans women are women "count on implicit acceptance by the
-outgroup (or, rather, the side-group of bystanders to whom such slogans are
-customarily addressed), that it's common to find it defused in a typically
-reactionary retreat to "transwomen are transwomen", as Chimamanda Ngozi Adichie
-does at around the 3-minute mark of
+So little can the use of the slogan "trans women are women" count on implicit
+acceptance by the outgroup (or, rather, the side-group of bystanders to whom
+such slogans are customarily addressed), that it's common to find it defused in
+a typically reactionary retreat to "transwomen are transwomen", as Chimamanda
+Ngozi Adichie does at around the 3-minute mark of 
 [this interview](https://www.channel4.com/news/chimamanda-ngozi-adichie-on-feminism):
 
-> so, when people talk about, you know, are transwomen _women_, my feeling is:
+> so, when people talk about, you know, 'are transwomen _women_?', my feeling is:
 > transwomen are transwomen
 
 (Whether Adichie's words should be transcribed as "trans women", or "transwomen",
