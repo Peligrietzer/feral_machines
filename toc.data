@@ -12,7 +12,7 @@
      author('Peli Grietzer & Lucca Fraser'),
      tags(['d&d', hegel, psychoanalysis, fantasy]),
      abstract('On the subject of Elves.'),
-     date('2018-09-01')], % guessing
+     date('2019-02-22')], % guessing
 
     [file('blah.md'),
      title('I do not know'),
