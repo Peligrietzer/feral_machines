@@ -36,6 +36,7 @@ pre {
     width: 85vw;
     margin: 0 auto;
     overflow: hidden;
+    color: #fdfefc;
 }
 
 h1 {
@@ -67,7 +68,19 @@ h3 {
         margin-left: 5%;
         margin-right: 5%;
         width: 90%;
+        color: #fdfefc;
     }
+}
+
+li.toc_title {
+    font-weigth: normal;
+    bottom-margin: 0.2em;
+}
+
+.toc_abstract {
+    font-size: 100%;
+    color: #dddedc;
+
 }
 
 .toc {
@@ -76,14 +89,11 @@ h3 {
 }
 
 .toc_author {
-    font-size: 75%;
+    font-size: 90%;
     line-height: 140%;
     color: #8d8e8c;
 }
 
-.toc_title {
-    font-weight: bold;
-}
 
 .abstract {
     font-weight: bold;
@@ -107,8 +117,17 @@ label {
     color: #fdfefc;
 }
 
+.toc_entry {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.toc_title {
+    margin-bottom: 1em;
+}
+
 .toc_tag_line {
-    font-size: 75%;
+    font-size: 90%;
     color: #8d8e8c;
 }
 
@@ -127,4 +146,9 @@ img {
     margin-right: auto;
     margin-left: auto;
     display: block;
+}
+
+.wordcount {
+    font-size: 100%;
+    color: #8d8e8c;
 }
