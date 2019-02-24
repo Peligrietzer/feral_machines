@@ -41,8 +41,8 @@ strictly contextual reserve. Neither immediate party to the conflict, I
 believe, mistakes the semantically hollow flasks that remain for their
 hidden partisan content. 
 
-There is an audience, however, who *do*, by design, perceive these slogans as
-"trivially true", and it is they who are their target market: those outside
+But there is an audience who *do*, by design, perceive these slogans as
+"trivially true", and who are, in fact, their target market: those outside
 the immediate conflict -- bystanders and "normies". And what do they see?
 They see one group trying to defend basic, undeniable truths and common
 sense, excruciatingly modest in actual content, and another hysterically
