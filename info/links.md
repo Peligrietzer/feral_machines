@@ -20,6 +20,8 @@
 
 * [The Charnel-House](https://thecharnelhouse.org/)
 
+* [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/)
+
 # Libraries and Archives
 
 * [Memory of the World](https://library.memoryoftheworld.org)
