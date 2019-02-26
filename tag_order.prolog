@@ -6,6 +6,7 @@ super(ai, genetic_programming).
 
 super(computer_science, infosec).
 super(computer_science, ai).
+super(computer_science, prolog).
 
 super(infosec, weird_machines).
 super(infosec, exploitation).

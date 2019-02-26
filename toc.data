@@ -18,21 +18,21 @@
      title('I do not know'),
      author(me),
      abstract('Just testing date stamps for uncommitted files'),
-     tags([mindflayer, test, draft]),
+     tags([mindflayer, test, undraft]),
      date('2019-02-17')],
  
     [file('political_tautologies.md'),
      title('The Use of Triviality in Reactionary Rhetoric'),
      abstract('What role do truisms and tautologies play
                in political rhetoric?'),
-     tags([sophistry, supolitics, rhetoric, populism, terf, racism, draft])],
+     tags([sophistry, politics, rhetoric, populism, terf, racism, undraft])],
 
     [file('evolution_and_weird_machines.md'),
      title('Evolution and Weird Machines'),
      abstract('Why are evolutionary techniques well-suited to the
                exploration of weird machines?'),
      tags([genetic_programming, weird_machines, exploitation, ai,
-           evolution, draft])],
+           evolution, undraft])],
 
     [file('virtue_ethics+machine_learning.md'),
      title('Virtue Ethics as Machine Learning'),
@@ -42,12 +42,12 @@
                features with those regions of problem space that
                incline us towards the use of machine learning, rather
                than classical algorithms.'),
-     tags([ethics, ai, virtue, draft])],
+     tags([ai, virtue, undraft])],
 
     [file('parasitic_disengagement.md'),
      title('Parasitic Disengagement and Memetic Drift'),
      abstract('On coevolution and parasitism in genetic programming and culture.'),
-     tags([genetic_programming, memetics, academia, draft])],
+     tags([genetic_programming, memetics, academia, undraft])],
 
     [file('evo_vx.md'),
      title('Natural Selection Considered Harmful'),
@@ -55,6 +55,6 @@
                computer virus design and evolutionary computation have intersected,
                despite a long-standing fascination of the virus-theoretic community
                with evolutionary metaphors.'),
-     tags([genetic_programming, vx, history, draft])]
+     tags([genetic_programming, vx, history, undraft])]
 
 ].
