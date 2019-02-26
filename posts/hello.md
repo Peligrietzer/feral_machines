@@ -123,7 +123,7 @@ systems that implement the essentials of Darwinian natural selection
 My grad research brought these streams together, and explored the *evolution of weird
 machine code* -- [ROP](https://en.wikipedia.org/wiki/ROP) chains, in particular
 -- culminating in 
-[Urschliem in Silicon: Return Oriented Program Evolution with ROPER](http://eschatronics.ca). 
+[Urschliem in Silicon: Return Oriented Program Evolution with ROPER](http://roper.eschatronics.ca). 
 As that project developed, the intuition guiding it started to crystallize -- a
 sense of how untamed -- *undesigned* -- the computational capacities of our
 systems really are, leaking through our rather pragmatic abstractions, and

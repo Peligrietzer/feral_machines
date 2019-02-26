@@ -12,7 +12,8 @@
 
 * [Meaningness](https://meaningness.com)
 
-* [K-Punk](http://k-punk.abstractdynamics.org/)
+* [K-Punk](http://k-punk.abstractdynamics.org/) and
+its [second incarnation](http://k-punk.org)
 
 * [Human Iterations](http://humaniterations.net)
 
@@ -21,6 +22,8 @@
 * [The Charnel-House](https://thecharnelhouse.org/)
 
 * [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/)
+
+* [Antarctica Starts Here](https://drwho.virtadpt.net/)
 
 # Libraries and Archives
 
