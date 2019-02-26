@@ -10,7 +10,7 @@
     [file('spirit_is_a_drider.md'),
      title('Spirit is a Drider'),
      author('Peli Grietzer & Lucca Fraser'),
-     tags(['d&d', hegel, psychoanalysis, fantasy]),
+     tags(['d&d', hegel, psychoanalysis]),
      abstract('On the subject of Elves.'),
      date('2019-02-22')], % guessing
 
@@ -25,7 +25,7 @@
      title('The Use of Triviality in Reactionary Rhetoric'),
      abstract('What role do truisms and tautologies play
                in political rhetoric?'),
-     tags([sophistry, politics, rhetoric, populism, terf, racism, draft])],
+     tags([sophistry, supolitics, rhetoric, populism, terf, racism, draft])],
 
     [file('evolution_and_weird_machines.md'),
      title('Evolution and Weird Machines'),
