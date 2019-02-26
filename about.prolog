@@ -2,6 +2,7 @@
                   admin/1,
                   domain/1,
                   email/1,
+                  port/1,
                   abstract/1]).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -13,3 +14,4 @@ admin('Lucca Fraser').
 domain('fm.infotro.de').
 email('feral.machines@bastardi.net').
 abstract('A wilderness supervening on artifice.').
+port(9697).
