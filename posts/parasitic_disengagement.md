@@ -38,13 +38,12 @@ tied to efficiency. Coming up with a good selection method is usually the key to
 unravelling the entire problem. With that in hand, almost everything else falls
 into place.
 
-Once it's up and running, an evolutionary algorithm implements a form of "machine
-learning", or even intelligence. There's something wonderful about this. It's
-"Intelligent Design" turned on its head: instead of looking at the complexity of
-life and stubbornly insist in the face of Darwinian selection that there's some
-sort of divine "intelligence" behind it all, we take random, blind, natural
-selection, deploy it an absolutely artificial, virtual environment and exploit
-it as a form of machine intelligence! There's something sublime in this, and
+Once it's up and running, an evolutionary algorithm implements a form of
+"machine learning", or even intelligence. There's something wonderful about
+this. It's "Intelligent Design" turned on its head: instead of inferring an
+intelligent designer from the complexity and problem-solving capacities of life,
+we abstract an algorithmic description of how those life-forms, indeed, came to
+exist, and use it to design intelligence! There's something sublime in this, and
 it's genuinely fascinating to behold.
 
 ![Sacculina](/img/Haeckel_Sacculina.png)
