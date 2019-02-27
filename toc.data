@@ -45,7 +45,7 @@
      tags([ai, virtue, draft])],
 
     [file('parasitic_disengagement.md'),
-     title('Parasitic Disengagement and Memetic Drift'),
+     title('Disengagement and Drift'),
      abstract('On coevolution and parasitism in genetic programming and culture.'),
      tags([genetic_programming, coevolution, memetics, academia]),
      date('2019-02-27')],
