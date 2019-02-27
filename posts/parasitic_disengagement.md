@@ -112,7 +112,7 @@ free-floating delirium.
 ## Radical Postures and Memetic Drift 
 
 It's interesting to look at the relationship between academic philosophy and its
-outside, through this model: entire discourses -- or "discursive populations" --
+outside through this model: entire discourses -- or "discursive populations" --
 that are no longer sensitive to any selective pressures from the outside.
 Or none, at least, whose selective criteria are relevant to philosophy's own
 "fitness". The sciences, from academic philosophy's perspective, have coalesced
