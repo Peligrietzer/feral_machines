@@ -4,7 +4,7 @@
 
 I've been thinking a lot about natural selection, lately -- though less as a
 natural phenomenon, and more as a generic algorithm. There's a long
-and enduring stream in AI research and development that falls under the general
+and enduring stream in machine learning that falls under the general
 rubric of "evolutionary computation", which implements Darwinian selection as a
 generic problem-solving algorithm. In the subfield of "genetic programming", 
 which is the one with which I have the most 
