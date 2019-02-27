@@ -109,7 +109,7 @@ to dominate the evolutionary process. Adaptation has stopped, and any
 free-floating delirium.
 
 
-## Radical Postures and Memetic Drift 
+## The Discourse of Angels
 
 It's interesting to look at the relationship between academic philosophy and its
 outside through this model: entire discourses -- or "discursive populations" --
