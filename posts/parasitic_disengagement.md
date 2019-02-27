@@ -14,14 +14,15 @@ carrying out certain tasks. This works, comparatively, quite well when the task
 is intractable in the face of less stochastic programming methods -- typically,
 that is, when we're dealing with NP-hard problems.
 
-The basic idea is just this: evolution, following an abstract but effective
-Darwinian schema, only needs three things to occur: replication, variation, and
-selection. It doesn't need "life". It isn't even fussy about any particular
-properties of matter. Programs, in fact, are exemplary candidates for
-evolution. (And you already know about memes.) It's possible -- in fact, it's
-easy -- to evolve programs that are well-adapted to particular tasks, that
-find optimal solutions to problems, that fuzz out leaks and holes in software,
-that discover and exploit vulnerabilities, etc.
+The basic idea is just this: evolution only needs three things to occur:
+replication, variation, and selection. 
+[It doesn't need "life"](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077),
+and isn't even
+fussy about any particular properties of matter. Programs, in fact, are
+exemplary candidates for evolution. (And you already know about memes.) It's
+possible -- in fact, it's easy -- to evolve programs that are well-adapted to
+particular tasks, that find optimal solutions to problems, that fuzz out leaks
+and holes in software, that discover and exploit vulnerabilities, etc.
 
 Classically, what you need to implement genetic programming is this: some way of
 selecting, out of a population of (intially random) programs, candidates for
