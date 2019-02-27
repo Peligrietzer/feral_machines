@@ -42,9 +42,9 @@ Once it's up and running, an evolutionary algorithm implements a form of
 "machine learning", or even intelligence. There's something wonderful about
 this. It's "Intelligent Design" turned on its head: instead of inferring an
 intelligent designer from the complexity and problem-solving capacities of life,
-we abstract an algorithmic description of how those life-forms, indeed, came to
-exist, and use it to design intelligence! There's something sublime in this, and
-it's genuinely fascinating to behold.
+we abstract, from evolutionary theory, an algorithmic description of how those
+life-forms came to exist, and use it to _design intelligence_! There's
+something sublime in this, and it's genuinely fascinating to behold.
 
 ![Sacculina](/img/Haeckel_Sacculina.png)
 
