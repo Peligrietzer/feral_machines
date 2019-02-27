@@ -1,4 +1,4 @@
-# Parasitic Disengagement
+# Parasitic Disengagement and Memetic Drift
 
 ## Quick and Dirty Intro to Evolutionary Computation
 

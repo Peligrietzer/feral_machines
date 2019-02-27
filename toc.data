@@ -47,7 +47,8 @@
     [file('parasitic_disengagement.md'),
      title('Parasitic Disengagement and Memetic Drift'),
      abstract('On coevolution and parasitism in genetic programming and culture.'),
-     tags([genetic_programming, coevolution, memetics, academia])],
+     tags([genetic_programming, coevolution, memetics, academia]),
+     date('2019-02-27')],
 
     [file('evo_vx.md'),
      title('Natural Selection Considered Harmful'),
