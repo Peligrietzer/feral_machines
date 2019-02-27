@@ -38,7 +38,7 @@ tied to efficiency. Coming up with a good selection method is usually the key to
 unravelling the entire problem. With that in hand, almost everything else falls
 into place.
 
-Once it's up and running, a genetic algorithm implements a form of "machine
+Once it's up and running, an evolutionary algorithm implements a form of "machine
 learning", or even intelligence. There's something wonderful about this. It's
 "Intelligent Design" turned on its head: instead of looking at the complexity of
 life and stubbornly insist in the face of Darwinian selection that there's some
