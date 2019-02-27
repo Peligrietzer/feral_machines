@@ -13,5 +13,5 @@ title('Feral Machines').
 admin('Lucca Fraser').
 domain('fm.infotro.de').
 email('feral.machines@bastardi.net').
-abstract('A wilderness supervening on artifice.').
+abstract('a wilderness supervening on artifice').
 port(9697). 
