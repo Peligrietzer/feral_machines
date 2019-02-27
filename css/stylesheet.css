@@ -176,3 +176,10 @@ blockquote {
     padding: 0.5em 10px;
     color: #adaedc;
 }
+
+.ascii_art {
+    line-height: 120%;
+    font-size: 100%;
+    font-family: monospace;
+    font-weight: bold;
+}

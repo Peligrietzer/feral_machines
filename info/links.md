@@ -42,3 +42,7 @@ its [second incarnation](http://k-punk.org)
 * [telnet BBS Guide](https://www.telnetbbsguide.com/)
 
 * [VXHeaven](http://83.133.184.251/virensimulation.org/index.html)
+
+# Miscellany
+
+* [Legend of the Red Dragon](/static/lord.html)

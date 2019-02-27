@@ -1,8 +1,8 @@
 # Hello, World!
 
 Back when the philosophical blogosphere was really booming -- which, let's say
-was between 2005 and 2013, going by
-[K-Punk](http://k-punk.abstractdynamics.org)'s lifespan -- I was spending most
+was between 2005 and 2013, going by the lifespan of the first
+[K-Punk](http://k-punk.abstractdynamics.org) blog -- I was spending most
 of my time wrangling a brood of young kids and a couple bouts of grad school. It
 was a silver age for the internet, but I spent most of that time on the
 sidelines, one or two false starts aside.
