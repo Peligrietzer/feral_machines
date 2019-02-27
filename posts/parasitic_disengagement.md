@@ -82,7 +82,7 @@ The word "outperforms" can be a bit misleading, here. It's not that one
 population is doing _better_ than the other, in any objectively meaningful
 sense. Only that it has lost any means of telling its counterparts apart. A
 teacher whose tests have become so impossibly difficult that all of her students
-uniformly fail, for example, is "outperforming" the students, in this sense, --
+uniformly fail, for example, is "outperforming" the students, in this sense --
 but in this sense alone.
 
 ![genpong](/img/pong.png)
