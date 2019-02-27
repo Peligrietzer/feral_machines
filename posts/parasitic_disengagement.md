@@ -1,6 +1,6 @@
 # Parasitic Disengagement
 
-## Quick and Dirty Introduction to Evolutionary Computation
+## Quick and Dirty Intro to Evolutionary Computation
 
 I've been thinking a lot about natural selection, lately -- not so much the
 "natural" side of it, as the way it works as a general algorithm. There's a long
@@ -42,73 +42,107 @@ learning", or even intelligence. There's something wonderful about this. It's
 life and stubbornly insist in the face of Darwinian selection that there's some
 sort of divine "intelligence" behind it all, we take random, blind, natural
 selection, deploy it an absolutely artificial, virtual environment and exploit
-it as a form of machine intelligence! There's something sublime in this. It
-thrills the fuck out of me.
+it as a form of machine intelligence! There's something sublime in this, and
+it's genuinely fascinating to behold.
 
 ![Sacculina](/img/Haeckel_Sacculina.png)
 
 ## Coevolution and Parasitism
 
-Anyway, lately I've been studying ways of engineering co-evolution. Instead of
-measuring the evolving population against some static, a priori measure of
-fitness, you evolve the selection mechanism along with the population it selects
-from. You evolve it, for instance, as a second population, in tension with the
-first. Sometimes this is compared to the relation between host and parasite
+Anyway, lately I've been studying ways of engineering co-evolution. 
+
+Instead of measuring the evolving population against some static, a priori
+measure of fitness, coevolutionary algorithms evolve the selection mechanism
+along with the population it selects from. This is typically done by having a
+_second_ population exert selection pressure on the first, and vice versa.
+Sometimes this is compared to the relation between host and parasite
 populations, or predator and prey. The parasite poses problems to the host, and
 itself has to adapt to this task. The host tries to solve these problems in
 return.
 
 There's a few ways this can go. The two populations can lock into an "arms
 race", each adaptation accelerating the evolution of its opponent. It's also
-possible for the two populations to collude, learning to pose as little
+possible for the two populations to _collude_, learning to pose as little
 challenge as possible to one another, settling into a sort of oligarchal
 mediocrity. An especially common outcome, however, is for the two populations to
-simply disengage. This happens when the parasites and hosts lose any means of
-telling the counterparts apart, when a parasite, for example, has reached such
-an extreme state of virulence that every host is fails its tests in equal
-measure. Imagine, for example, two populations of pong paddles, where the left
-side has evolved to a point that it defeats every single right paddle with equal
-(and high) probability. At this point, whatever selective pressure that the left
-side imposed on the right is lost -- and vice-versa. With selection no longer
-playing a role, as genetic drift comes to dominate the process. Variation
-continues to occur, but it is now a purely stochastic process, a random walk.
-Adaptation has stopped, and any "intelligence" that the system might have
-exhibited gives way to a kind of free-floating delirium.
+simply _disengage_. 
 
-This is where we're at.
+It was a paper by John Cartlidge and Seth Bullock, entitled
+[Combating Coevolutionary Disengagement by Reducing Parasite Virulence](/data/parasite-gp.pdf)
+that initially captured my imagination, on this topic. "Coevolutionary
+disengagement", they begin, 
+
+> occurs when one advantaged population
+> outperforms another to the extent that conspecifics become indistinguishable from
+> one another interms of fitness. At such times, coevolving populations become
+> decoupled, and se-lection acts indiscriminately causing the system to drift,
+> often with deleterious results
+
+The word "outperforms" can be a bit misleading, here. It's not that one
+population is doing _better_ than the other, in any objectively meaningful
+sense. Only that it has lost any means of telling its counterparts apart. A
+teacher whose tests have become so impossibly difficult that all of her students
+uniformly fail, for example, is "outperforming" the students, in this sense, --
+but in this sense alone.
+
+![genpong](/img/pong.png)
+
+Or to take another example, and one you can experiment with
+a bit more freely, imagine
+[(or implement)](https://github.com/oblivia-simplex/genpong)
+two populations of pong players -- one of which always
+plays the right side of the table, and one of which always plays the left. Let's
+say that the fitness function is something like "the number of games won".
+Players that win against the opposing population go on to breed (at least
+probabilistically) and ones that lose, don't. Now, suppose we've reached a point
+where the left population defeats every single right-side player with equal (and
+high) probability. At this point, whatever selective pressure that the left side
+imposed on the right is lost -- and vice-versa. The two populations are no
+longer able to distinguish between one another's members, and, as a result, the
+fitness landscapes that the two populations find themselves upon have been
+flattened to a plane. Variation continues to occur, but it is now a purely
+stochastic process, a random walk. With selection no longer playing a role,
+[genetic drift](https://evolution.berkeley.edu/evolibrary/article/evo_24) comes
+to dominate the evolutionary process. Adaptation has stopped, and any
+"intelligence" that the system might have exhibited gives way to a kind of
+free-floating delirium.
+
 
 ## Radical Postures and Memetic Drift 
 
-It's pretty obvious that this is what's been happening in some (most) swaths of
-academic philosophy (something I've stewed in, myself, for a pretty long time).
-You have these entire discourses -- entire discursive populations -- that are no
-longer sensitive to any selective pressures from the outside. Discourses for
-whom the sciences are a sort of opaque monolithic block, and any talk about them
-dismissable as "scientism", and for which politics has about as little texture
-as a couple of opaque, featureless banners. What you get there is something that
-I suppose you could call "memetic drift": they're not exactly stagnant --
-they're actually pretty lively and volatile -- but the way they vary is almost
-completely arbitrary. A random walk through academic memespace.
+It's interesting to look at the relationship between academic philosophy and its
+outside, through this model: entire discourses -- or "discursive populations" --
+that are no longer sensitive to any selective pressures from the outside.
+Or none, at least, whose selective criteria are relevant to philosophy's own
+"fitness". The sciences, from academic philosophy's perspective, have coalesced
+into an opaque monolithic block, whose harmful radiation is warded off by cries
+of "scientism". Political realities, for their part, are smoothed into
+a small set of opaque, featureless banners. And so on. 
 
-This seems like a pretty good way of framing political disengagement, too. I'm
-not talking about apathy or listlessness here. Disengagement can be passionate.
-It's even romanticised -- a self-styled "radical" posture that is so intense, so
-virulent, that no adversary can measure up to it. Everything is equally
-unacceptable. A sort of polarization takes place, but one that seems less and
-less like an actual struggle, and certainly has less and less of an effect on
-its environment (including, of course, its adversarial host).
+Of course, these discourses continue to mutate, and _some_ sort of selection 
+still occurs, in the blind caprice of committees -- mechanisms that discursive
+trends can certainly game, but not really _as_ philosophy. "Memetic drift"
+settles in -- a random walk through academic memespace, whose paths we
+can afterwards describe only in terms of fashion.
 
-This is a pretty abyssmal situation situation for adversarial or minoritarian
-politics to find itself in. Feminism, for example, isn't currently poised to
-impose any sort of unilateral hegemony from above. Until the tables turn, our
-best bet is to be a clever sort of parasite, one that can steer and redirect the
-evolution of the host. Politics is a craft where your best tool is your
-adversary.
+This might be an interesting way of framing political disengagement, too. I'm
+not talking about apathy or listlessness here. Disengagement, in this set, can
+be passionate. It's even romanticised -- a self-styled "radical" posture that is
+so intense, so virulent, that no adversary can measure up to it. Everything is
+equally unacceptable. A sort of polarization takes place, but one that seems
+less and less like an actual struggle, and certainly has less and less of an
+effect on its environment (including, of course, its adversarial host).
+A parasite that, for all its virulence, is no longer able to steer the 
+evolution of its host, in any relevant way, is ill-suited for politics, a
+craft where your instrument is your adversary.
 
-But we need to be virulent, too -- virulent enough, at least, to avoid falling
-into the trap of collusion. There is always a risk of collusion, and if that
-happens, everything that counts is extinguished. And yet impatiently ratcheting
-up the virulence and shooting for a sort of holy radicalism can lead to
-selective disengagement. Any chance of sculpting the adversary's political
-genome is lost, along with any chance of adapting to the adversary's tactics.
-All that's left is a sort of delirious drift through the ether.
+If disengagement is the Scylla, collusion's the Charybdis -- a situation where
+the selective pressure each population exerts on the other is _softened_
+to the point of insignificance, rather than impossibly hardened. The ultimate
+effect on the process is the same: both collusion and disengagement amount to
+a surrender to drift. Complacent apathy and holy radicalism mirror each other, 
+here. Any chance of sculpting the adversary's political
+memeplex is lost, along with any chance of adapting to their tactics.
+All that's left is a sort of delirium, steered only by the vagaries of the
+attention economy. 
+

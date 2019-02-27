@@ -13,6 +13,7 @@ super(infosec, exploitation).
 
 super(evolution, genetic_programming).
 super(evolution, memetics).
+super(evolution, coevolution).
 
 super(politics, populism).
 super(politics, feminism).
