@@ -51,28 +51,28 @@ it's genuinely fascinating to behold.
 
 ## Coevolution and Parasitism
 
-Anyway, lately I've been studying ways of engineering co-evolution. 
-
-Instead of measuring the evolving population against some static, a priori
-measure of fitness, coevolutionary algorithms evolve the selection mechanism
-along with the population it selects from. This is typically done by having a
-_second_ population exert selection pressure on the first, and vice versa.
-Sometimes this is compared to the relation between host and parasite
-populations, or predator and prey. The parasite poses problems to the host, and
-itself has to adapt to this task. The host tries to solve these problems in
-return.
+Now, instead of measuring the evolving population against some static, a priori
+measure of fitness, it's possible to implement the selective pressures as
+evolving populations in their own right. This is the aim of _competitive coevolutionary algorithms_,
+where two or more populations exert selection pressure on one another, in the 
+absence of any external measure. It's common to compare this dynamic to the
+relationship relation between host and parasite, or predator and prey. The
+parasite poses problems to the host, and itself has to adapt to this task. The
+host tries to solve these problems in return. The predator "instructs" its prey,
+and the prey returns the favour.
 
 There's a few ways this can go. The two populations can lock into an "arms
-race", each adaptation accelerating the evolution of its opponent. It's also
-possible for the two populations to _collude_, learning to pose as little
-challenge as possible to one another, settling into a sort of oligarchal
+race", each adaptation spurring a counter-adaptation on the part of the
+opponent. (This is, generally speaking, the ideal outcome for the engineer of
+the process, who wants to do everything they can to accelerate the process.)
+But it's also possible for the two populations to _collude_, learning to pose as
+little challenge as possible to one another, settling into a sort of oligarchical
 mediocrity. An especially common outcome, however, is for the two populations to
-simply _disengage_. 
+simply _disengage_.
 
-It was a paper by John Cartlidge and Seth Bullock, entitled
+On this topic, it was a paper by John Cartlidge and Seth Bullock, entitled
 [Combating Coevolutionary Disengagement by Reducing Parasite Virulence](/data/parasite-gp.pdf)
-that initially captured my imagination, on this topic. "Coevolutionary
-disengagement", they begin, 
+that initially captured my imagination. "Coevolutionary disengagement", they begin, 
 
 > occurs when one advantaged population
 > outperforms another to the extent that conspecifics become indistinguishable from
