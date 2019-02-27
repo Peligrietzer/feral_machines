@@ -128,7 +128,7 @@ can afterwards describe only in terms of fashion.
 
 This might be an interesting way of framing political disengagement, too. I'm
 not talking about apathy or listlessness here. Disengagement, in this set, can
-be passionate. It's even romanticised -- a self-styled "radical" posture that is
+be passionate. It can even be romanticised -- a self-styled "radical" posture that is
 so intense, so virulent, that no adversary can measure up to it. Everything is
 equally unacceptable. A sort of polarization takes place, but one that seems
 less and less like an actual struggle, and certainly has less and less of an
