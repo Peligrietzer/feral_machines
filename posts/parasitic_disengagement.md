@@ -128,14 +128,14 @@ can afterwards describe only in terms of fashion.
 
 This might be an interesting way of framing political disengagement, too. I'm
 not talking about apathy or listlessness here. Disengagement, in this set, can
-be passionate. It can even be romanticised -- a self-styled "radical" posture that is
-so intense, so virulent, that no adversary can measure up to it. Everything is
-equally unacceptable. A sort of polarization takes place, but one that seems
-less and less like an actual struggle, and certainly has less and less of an
-effect on its environment (including, of course, its adversarial host).
-A parasite that, for all its virulence, is no longer able to steer the 
-evolution of its host, in any relevant way, is ill-suited for politics, a
-craft where your instrument is your adversary.
+be passionate. It can even be romanticised -- an angelic posture
+so intense, so virulent, that no adversary can measure up to it.
+Everything is equally unacceptable. A sort of polarization takes place, but one
+that seems less and less like an actual struggle, and certainly has less and
+less of an effect on its environment (including, of course, its adversarial
+host). A parasite that, for all its virulence, is no longer able to steer the
+evolution of its host, in any relevant way, is ill-suited for politics, a craft
+where your instrument is your adversary.
 
 If disengagement is the Scylla, collusion's the Charybdis -- a situation where
 the selective pressure each population exerts on the other is _softened_
