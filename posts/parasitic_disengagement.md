@@ -5,7 +5,7 @@
 Evolution only needs three things to occur: replication, variation, and
 selection.
 [It doesn't need "life"](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077),
-and isn't even fussy about any particular properties of matter. Programs, in
+and isn't even fussy about any particular properties of the matter involved. Programs, in
 fact, are exemplary candidates for evolution. It's possible -- in fact, it's
 easy -- to evolve programs that are well-adapted to particular tasks, that find
 optimal solutions to problems, that fuzz out leaks and holes in software, that
