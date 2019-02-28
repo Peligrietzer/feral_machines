@@ -1,31 +1,44 @@
-# DRAFT
+# The Lure of Triviality
 
-# On the Use of Quasi-Tautologies and Truisms in Political Discourse
-
-Every now and then, I'm reminded of something I must have read
-(or heard?) somewhere, concerning the use of tautologies, or near
-tautologies, in political rhetoric. For years, I've had some
-vague sense that I'd read something *extremely illuminating* on
-the subject... somewhere. I've never been able to remember the
-source, itself, though. And, come to think of it, my memory of
-what that source had actually *said* has faded over the years as well,
-so I might as well take a stab at a clean room design on the topic. 
+Every now and then, I'm reminded of something I must have read (or heard?)
+somewhere, concerning the use of tautologies, or near tautologies, in political
+rhetoric. For years, I've had some vague sense that I'd read something
+*extremely illuminating* on the subject... somewhere. I've never been able to
+remember the source, itself, though. And, come to think of it, my memory of what
+that source had actually *said* has faded over the years as well, so I might as
+well take a stab at a clean room reconstruction of the topic.
 
 
 ## Examples
 
+What I have in mind, here, specifically are "trivially true" statements that
+are transformed into political slogans. By "trivially true", I mean to include
+both statements that wear the syntactic form of a tautology on their surface,
+and statements that, _in their explicit, manifest content_, so completely adhere
+to common knowledge that they _seem_ to convey no new information at all, and
+appear to be, for all intents and purposes, semantically vacuous. 
+
+The question to ask, then, is: What is _political_ appeal is found in the
+traffic of "semantically vacuous" slogans?
+
 Now, my reasons for seeing things this way *may* be an effect of
 my rather partisan salience filters, but it seems to me that the
 discursive strategy I'm talking about it *principally* employed by
-the Right, and specifically by its reactionary tail. 
+the Right -- and even more so by its reactionary tail. 
 
 Some obvious examples:
 
-1. [Men aren't women.](https://www.rt.com/news/444189-twitter-man-woman-ban-pc/)
-2. [All lives matter.](https://en.wikipedia.org/wiki/All_Lives_Matter)
-3. [France for the French.](https://www.theglobeandmail.com/news/world/rise-of-marine-le-pen-how-the-far-right-leader-became-a-contender-in-france/article34752498/)
-4. [It's okay to be white.](https://en.wikipedia.org/wiki/It%27s_OK_to_be_white)
-5. [Boys will be boys.](https://idioms.thefreedictionary.com/boys+will+be+boys)
+1. [Men aren't women](https://www.rt.com/news/444189-twitter-man-woman-ban-pc/) -- 
+a slogan glibly employed by TERFs and other anti-trans agitators.
+2. [All lives matter](https://en.wikipedia.org/wiki/All_Lives_Matter) -- 
+the popular retort by which white supremacists (be they tacit or explicit) most frequently dismiss the eponymous battle cry of the Black Lives Matter movement.
+3. [La France aux Français](https://www.theglobeandmail.com/news/world/rise-of-marine-le-pen-how-the-far-right-leader-became-a-contender-in-france/article34752498/) -- 
+[perennial](https://www.persee.fr/doc/polit_0032-342x_1993_num_58_3_6289_t1_0810_0000_2) 
+rallying cry of French nationalists and xenophobes.
+4. [It's okay to be white](https://en.wikipedia.org/wiki/It%27s_OK_to_be_white) --
+the slogan of choice in a recent white supremacist postering campaign.
+5. [Boys will be boys](https://www.pbs.org/newshour/science/why-boys-will-be-boys-is-an-unscientific-excuse-for-assault) -- 
+particularly when used to dismiss concerns about sexual violence.
 
 ## Effects
 

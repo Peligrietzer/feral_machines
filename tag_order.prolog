@@ -10,6 +10,7 @@ super(computer_science, prolog).
 
 super(infosec, weird_machines).
 super(infosec, exploitation).
+super(infosec, viruses).
 
 super(evolution, genetic_programming).
 super(evolution, memetics).
@@ -19,7 +20,7 @@ super(politics, populism).
 super(politics, feminism).
 super(politics, racism).
 
-super(feminism, terf).
+super(feminism, terfs).
 super(feminism, transfeminism).
 super(feminism, xenofeminism).
 

@@ -22,10 +22,11 @@
      date('2019-02-17')],
  
     [file('political_tautologies.md'),
-     title('The Use of Triviality in Reactionary Rhetoric'),
+     title('The Lure of Triviality'),
      abstract('What role do truisms and tautologies play
                in political rhetoric?'),
-     tags([sophistry, politics, rhetoric, populism, terf, racism, draft])],
+     date('2019-03-03'),
+     tags([sophistry, populism, terfs, racism])],
 
     [file('evolution_and_weird_machines.md'),
      title('Evolution and Weird Machines'),
@@ -56,6 +57,7 @@
                computer virus design and evolutionary computation have intersected,
                despite a long-standing fascination of the virus-theoretic community
                with evolutionary metaphors.'),
-     tags([genetic_programming, vx, history, draft])]
+     date('2019-03-10'),
+     tags([genetic_programming, viruses, history, roper])]
 
 ].

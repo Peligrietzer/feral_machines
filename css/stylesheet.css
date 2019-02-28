@@ -63,12 +63,12 @@ h3 {
     display: block;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1000px) {
     #main {
         font-size: 110%;
-        margin-left: 5%;
-        margin-right: 5%;
-        width: 90%;
+        margin-left: 3%;
+        margin-right: 3%;
+        width: 94%;
         color: #fdfefc;
     }
 }

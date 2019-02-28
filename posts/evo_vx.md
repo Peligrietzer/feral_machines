@@ -18,9 +18,11 @@ science-fiction author, Gregory Benford, during his time as a postdoctoral
 fellow at the Lawrence Radiation Laboratory, in Livermore, California. "There
 was a pernicious problem when programs got sent around for use: 'bad code' that
 arose when researchers included (maybe accidentally) pieces of programming that
-threw things awry," Benford recalls of his time at the LRL.
+threw things awry," Benford 
+[recalls](http://file770.com/the-viral-professor/)
+of his time at the LRL.
 
->  One day [in 1969] I was struck by the thought that one might do so
+> One day [in 1969] I was struck by the thought that one might do so
 > intentionally, making a program that deliberately made copies of itself
 > elsewhere. The biological analogy was obvious; evolution would favor such code,
 > especially if it was designed to use clever methods of hiding itself and using
@@ -30,13 +32,14 @@ threw things awry," Benford recalls of his time at the LRL.
 > a certain terminal. Soon enough -- just a few hours -- the code popped up in
 > other programs, and started propagating. 
 
- Benford's experiments
-unfolded in relative obscurity, apart from inspiring a short story that he would
-publish in the following year, entitled "The Scarred Man". As far as we can
-tell, however, the invocation of "evolution" remained entirely analogical, and
-did not signal any rigorous effort to implement Darwinian natural selection in
-the context of self-reproducing code. It was nevertheless an alluring idea, and
-one that would reappear with frequency in the young craft of virus programming.
+Benford's experiments unfolded in relative obscurity, apart from inspiring a
+short story that he would publish in the following year, entitled 
+["The Scarred Man"](http://www.gregorybenford.com/extra/the-scarred-man-returns/).
+As far as we can tell, however, the invocation of "evolution" remained
+entirely analogical, and did not signal any rigorous effort to implement
+Darwinian natural selection in the context of self-reproducing code. It was
+nevertheless an alluring idea, and one that would reappear with frequency in the
+young craft of virus programming.
 
 
 ## 1985: Cohen
@@ -76,7 +79,7 @@ of viruses:
 1.  reproduction with variation (the "genetic operators")
 2.  selection (detection by recognizers, or "antivirus" software)
 3.  differential survival (there is no recognizer that can recognize
-    every potential virus, as a corollary of Rice's theorem [[
+    every potential virus, as a corollary of [Rice's theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem))
 
 He goes no further in systematizing this dimension of the problem,
 unfortunately, and nowhere in this text do we find anything that either draws on
@@ -110,11 +113,11 @@ by the security community, this is likely for one or two reasons:
     able to find* in the course of writing this chapter are those circulated by
     the grey-hat vxer community, as opposed to those developed, or contracted, by
     intelligence agencies and criminal syndicates, who tend to hold somewhat more
-    stringent views on matters of intellectual pROPERty. And so a second,
+    stringent views on matters of intellectual property. And so a second,
     plausible-enough explanation presents itself: it is possible that far less
     playful evolutionary viruses *do* exist in the wild, but that they tend to
     either go undetected, are used primarily for targetted operations less
-    exposed to the public, or that they are not being pROPERly recognized or
+    exposed to the public, or that they are not being properly recognized or
     reported in the security bulletins released by the major antivirus companies.
 
 
@@ -167,21 +170,23 @@ It is nevertheless evident how close we are to an actual evolutionary process.
 
 In 2002, Mental Driller developed and released a virus that bridged the gulf
 between metamorphic viruses and a new variety of viruses that could be called
-"genetic". MetaPHOR is a highly sophisticated metamorphic virus, capable of
+"genetic". [MetaPHOR](http://virus.wikidot.com/metaphor) 
+is a highly sophisticated metamorphic virus, capable of
 infecting binaries on both Linux and Windows platforms. Written entirely in x86
 assembly, it includes its own disassembler, intermediate pseudo-assembly
 language, and assembler, as well as a complex metamorphic and encryption
 engines. Its metamorphic engine mutates the code body through instruction
 permutation, register swapping, 1-1, 1-2, and 2-1 translations of instructions
-into semantic equivalents, and the injection of 'garbage code', or what we will
-later call "semantic introns".
+into semantic equivalents, and the injection of 'garbage code', or what 
+those working in the field of genetic programming call 
+["semantic introns"](http://www.cs.mun.ca/~banzhaf/papers/ML95.pdf).
 
-But the final touch, which elevates this program to evolutionary status, is the
-use of a simple genetic algorithm, which is responsible for weighting the
-probabilities of each metamorphic transformation type. As Mental Driller
-comments in the MetaPHOR source code:
+But the final touch is the use of a simple genetic algorithm, which is
+responsible for weighting the probabilities of each metamorphic transformation
+type. As Mental Driller comments in the 
+[MetaPHOR source code](https://github.com/oblivia-simplex/win32.MetaPHOR/blob/master/METAPHOR.ASM):
 
->   I have added a genetic algorithm in certain parts of the code to make it
+> I have added a genetic algorithm in certain parts of the code to make it
 > evolve to the best shape (the one that evades more detections, the action more
 > stealthy, etc. etc.). It's a simple algorithm based on weights, so don't expect
 > artificial intelligence :) (well, maybe in the future :P). 
@@ -205,8 +210,9 @@ same host, or filter their targets more carefully according to filename.)
 The frequent invocation of ecological and evolutionary tropes in virus
 literature, combined with the lack of any genuine appearance of evolutionary
 malware, has led many to speculate as to its impossibility. The most frequently
-cited reason for the unfeasibility of viral evolution is *computational
-brittleness* -- the claim being that the machine languages (or even scripting
+cited reason for the unfeasibility of viral evolution is 
+[computational brittleness](http://83.133.184.251/virensimulation.org/lib/apa00.html)
+ -- the claim being that the machine languages (or even scripting
 languages) that most viruses are implemented in are relatively intolerant to
 random mutation. The odds that a few arbitrary bitflips will result in
 functional, let alone 'fitter', code is astronomically small, these critics
@@ -219,8 +225,9 @@ more safely applied, and use those higher-level recombinations to steer the
 generation of low-level machine code.
 
 We can find this idea approximated in a brief article by ValleZ, appearing in
-the 2004 issue of the vxer ezine, *29A*, under the title "Genetic
-Programming in Virus". The article itself is just a quick note on what the
+the 2004 issue of the vxer ezine, *29A*, under the title 
+["Genetic Programming in Virus"](http://83.133.184.251/virensimulation.org/lib/vva00.html).
+The article itself is just a quick note on what the
 author sees as interesting but in all likelihood impractical ideas:
 
 >   I wanna comment here some ideas i have had. They are only ideas&#x2026; these ideas

@@ -1,34 +1,24 @@
 # Disengagement and Drift
 
-## Quick and Dirty Intro to Evolutionary Computation
+## Quick and Dirty Introduction to Genetic Programming
 
-I've been thinking a lot about natural selection, lately -- though less as a
-natural phenomenon, and more as class of algorithms. There's a long
-and enduring stream in machine learning that falls under the
-rubric of "evolutionary computation", and exploits Darwinian selection as a
-generic problem-solving algorithm. In the subfield of "genetic programming", 
-which is the one with which I have the most 
-[practical experience](http://roper.eschatronics.ca),
-this means evolving populations of programs as a way of discovering means of
-carrying out certain tasks. This works, comparatively, quite well when the task
-is intractable in the face of less stochastic programming methods -- typically,
-that is, when we're dealing with NP-hard problems.
-
-The basic idea is just this: evolution only needs three things to occur:
-replication, variation, and selection. 
+Evolution only needs three things to occur: replication, variation, and
+selection.
 [It doesn't need "life"](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1979.0077),
-and isn't even
-fussy about any particular properties of matter. Programs, in fact, are
-exemplary candidates for evolution. It's
-possible -- in fact, it's easy -- to evolve programs that are well-adapted to
-particular tasks, that find optimal solutions to problems, that fuzz out leaks
-and holes in software, that discover and exploit vulnerabilities, etc.
+and isn't even fussy about any particular properties of matter. Programs, in
+fact, are exemplary candidates for evolution. It's possible -- in fact, it's
+easy -- to evolve programs that are well-adapted to particular tasks, that find
+optimal solutions to problems, that fuzz out leaks and holes in software, that
+discover and exploit vulnerabilities, etc. The craft of doing so is called
+"genetic programming".
 
 Classically, what you need to implement genetic programming is this: some way of
 selecting, out of a population of (intially random) programs, candidates for
-reproduction one or more "variation operators", emulating mutation or sexual
-reproduction, for example, for generating new programs out of the programs
-already in your population
+reproduction, and one or more "variation operators", which carry out that
+reproduction by mutating or recombining those candidates in a controlled but
+stochastic fashion. (There are various features that a well-chosen variation
+operator _should_ have, but that is, itself, a live field of research, and
+a topic for another post.)
 
 Selection is traditionally performed with reference to the "fitness" of a
 specimen, which requires you to quantify how close it comes to solving the

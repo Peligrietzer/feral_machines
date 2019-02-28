@@ -1,4 +1,4 @@
-# Hello, World!
+# Hello, World
 
 Back when the philosophical blogosphere was really booming -- which, let's say
 was between 2005 and 2013, going by the lifespan of the first
