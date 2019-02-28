@@ -162,7 +162,7 @@ the one that had a pretty close proximity to
 *Collapse* journal, that felt pretty ill-at-ease in either Analytic or Continental
 camps (though it was probably cladistically closer to the latter, all things
 considered), that was the matrix of origin for terms like "Speculative Realism",
-"Cold Rationalism", and "Accelerationism". Some of its memorable vertices included:
+"Neorationalism", and "Accelerationism". Some of its memorable vertices included:
 
 1. [Deontologistics](https://deontologistics.wordpress.com/),
 2. [K-Punk](https://k-punk.abstractdynamics.org),
