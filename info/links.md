@@ -25,6 +25,10 @@ its [second incarnation](http://k-punk.org)
 
 * [Antarctica Starts Here](https://drwho.virtadpt.net/)
 
+* [Enemy Industry](https://enemyindustry.wordpress.com)
+
+* [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/)
+
 # Libraries and Archives
 
 * [Memory of the World](https://library.memoryoftheworld.org)

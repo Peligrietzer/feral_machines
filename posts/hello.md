@@ -1,6 +1,7 @@
 # Hello, World
 
-Back when the philosophical blogosphere was really booming -- which, let's say
+Back when [the](#what_blogosphere) 
+philosophical blogosphere was really booming -- which, let's say
 was between 2005 and 2013, going by the lifespan of the first
 [K-Punk](http://k-punk.abstractdynamics.org) blog -- I was spending most
 of my time wrangling a brood of young kids and a couple bouts of grad school.
@@ -9,23 +10,21 @@ to a blog of my own, and participated in that small world primarily as a reader
 and mailing list correspondent (while forming friendships that would shape the
 course of my thinking indefinitely).
 
-After 2013, it seemed, the old enthusiasm for the medium had faded. Maybe it
-was just a matter of pacing. Social media -- facebook & twitter, chiefly --
-drew the discourse into its acceleration chambers, and as we became accustomed to
-its frantic speed and density, I suppose the blogosphere of a few years prior
-just didn't scratch the itch. The mood now, at least from here, feels a bit like
-a dopamine [hangover](https://www.youtube.com/watch?v=DikWW4pOehk). What I seem
-to feel nowadays, when I open up facebook or twitter, is a kind of dutiful
-weariness. I'm glad those media are there, as a way of keeping in touch with
-friends that would otherwise be hard to reach, but the joy of the media
-themselves is just... *gone* for me. I can never really drum up a motive to post
-there, anymore.
+After 2013, it seemed, the old enthusiasm (whether my own or others', I don't know)
+for the medium had faded. Maybe it was just a matter of pacing. Social media --
+facebook & twitter, chiefly -- drew the discourse into its acceleration
+chambers, and as we became accustomed to its frantic speed and density, I
+suppose the blogosphere of a few years prior just didn't scratch the itch. The
+mood now, at least from here, feels a bit like a dopamine
+[hangover](https://www.youtube.com/watch?v=DikWW4pOehk). What I seem to feel
+nowadays, when I open up facebook or twitter, is a kind of dutiful weariness.
+I'm glad those media are there, as a way of keeping in touch with friends that
+would otherwise be hard to reach, but the joy of the media themselves is just...
+*gone* for me. I can never really drum up a motive to post there, anymore.
 
 This isn't at all a bad development. In many ways, it comes as a relief -- *that
 frozen moment when everyone sees what's on the end of every fork*. It seems,
 among other things, a good incentive to take another stab at blogging...
-
----
 
 (Why does that line of Burroughs' (or of Kerouac's, as remembered by Burroughs?) 
 feel so appropriate here? Why the "everyone", the "every fork"?
@@ -40,7 +39,6 @@ But, [I suppose, at least, I'm not alone](https://thelastinstance.com/posts/regu
 in this sentiment. Whatever it is, there's enough of it going around
 to get some hope of a blogosphere rolling, again.)
 
----
 
 Another reason I have for doing this is just that I *miss writing*. I left the
 humanities in 2013, for various reasons, and in 2014 started shifting
@@ -147,3 +145,43 @@ There's a certain
 ["vibe" to this canon](http://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview),
 I feel, though I'm not sure I can make it precise. "Feral machines" 
 certainly doesn't sum it up, but it seems as a good a bearing as any. 
+
+---
+
+## Afterthoughts 
+
+---
+
+<a name="what_blogosphere"></a>
+
+Probably a bit provincialist to say "*the* philosophical blogosphere". 
+I'm sure there were many more or less isolated cliques in the
+sprawling graph of interlinked philosophical blogs. The one I'm talking about is
+the one that had a pretty close proximity to 
+[Urbanomic](https://www.urbanomic.com)'s
+*Collapse* journal, that felt pretty ill-at-ease in either Analytic or Continental
+camps (though it was probably cladistically closer to the latter, all things
+considered), that was the matrix of origin for terms like "Speculative Realism",
+"Cold Rationalism", and "Accelerationism". Some of its memorable vertices included:
+
+1. [Deontologistics](https://deontologistics.wordpress.com/),
+2. [K-Punk](https://k-punk.abstractdynamics.org),
+3. Infinite Thought (deceased), 
+4. [Planomenology](https://planomenology.wordpress.com/), 
+5. Cold Me (deceased),
+6. [Larval Subjects](https://larvalsubjects.wordpress.com/),
+7. [Poetix](http://www.codepoetics.com/blog/),
+8. [Fractal Ontology](https://fractalontology.wordpress.com/),
+9. [Speculative Heresy](https://speculativeheresy.wordpress.com/),
+10. [No Useless Leniency](https://leniency.blogspot.com/)
+
+I'll probably add more to this list as the memories come back to me.
+
+A word about that: I know there's a certain honour in just letting a post _be_,
+once it's published. I can't commit to that. I'm prone to fiddling with things
+long after the fact, and I'm just going to have to ask you, dear reader, to
+accept that. A complete history of revisions can always be found by consulting
+the git log 
+[of this blog's repository](https://github.com/oblivia-simplex/feral_machines),
+so nothing's ever _really_ going to be lost to my inability to leave well enough
+alone. 
