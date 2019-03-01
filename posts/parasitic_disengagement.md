@@ -120,7 +120,8 @@ This might be an interesting way of framing political disengagement, too. I'm
 not talking about apathy or listlessness here. Disengagement, in this sense, can
 be passionate. It can even be romanticised -- an angelic posture
 so intense, so virulent, that no adversary can measure up to it.
-Everything is equally unacceptable. A sort of polarization takes place, but one
+[Everything is equally unacceptable.](https://www.mcgilldaily.com/2014/11/everything-problematic/)
+A sort of polarization takes place, but one
 that seems less and less like an actual struggle, and certainly has less and
 less of an effect on its environment (including, of course, its adversarial
 host). A parasite that, for all its virulence, is no longer able to steer the
