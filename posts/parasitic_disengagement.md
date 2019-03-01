@@ -117,7 +117,7 @@ settles in -- a random walk through academic memespace, whose paths we
 can afterwards describe only in terms of fashion.
 
 This might be an interesting way of framing political disengagement, too. I'm
-not talking about apathy or listlessness here. Disengagement, in this set, can
+not talking about apathy or listlessness here. Disengagement, in this sense, can
 be passionate. It can even be romanticised -- an angelic posture
 so intense, so virulent, that no adversary can measure up to it.
 Everything is equally unacceptable. A sort of polarization takes place, but one
