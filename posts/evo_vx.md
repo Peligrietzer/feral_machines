@@ -11,7 +11,7 @@ fiction authors, ever since there have been such things.
 
 ## 1969: Benford
 
-The oldest occurrence of the concept of evolving, intrusive code that I was able
+The earliest occurrence of the concept of evolving, intrusive code that I was able
 to excavate dates to sometime around 1969, in an experiment performed -- and
 subsequently extrapolated into fiction -- by the astrophysicist and
 science-fiction author, Gregory Benford, during his time as a postdoctoral
