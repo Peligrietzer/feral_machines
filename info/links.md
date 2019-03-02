@@ -1,33 +1,43 @@
 # Fellow Blogs
 
-* [The Last Instance](https://thelastinstance.com)
+* [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 
-* [Deontologistics](https://deontologistics.wordpress.com/)
+* [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 
-* [readthis.wtf](http://readthis.wtf/)
+* [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
 
-* [Toy Philosophy](https://toyphilosophy.com/)
+* [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
 
-* [Slate Star Codex](https://slatestarcodex.com)
+* [Slate Star Codex](https://slatestarcodex.com) -- Scott Alexander
 
-* [Meaningness](https://meaningness.com)
+* [Meaningness](https://meaningness.com) -- David Chapman
 
 * [K-Punk](http://k-punk.abstractdynamics.org/) and
-its [second incarnation](http://k-punk.org)
+its [second incarnation](http://k-punk.org) -- Mark Fisher
 
-* [Human Iterations](http://humaniterations.net)
+* [Human Iterations](http://humaniterations.net) -- William Gillis
 
-* [The Real Movement](https://therealmovement.wordpress.com/)
+* [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 
-* [The Charnel-House](https://thecharnelhouse.org/)
+* [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
 
-* [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/)
+* [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
 
-* [Antarctica Starts Here](https://drwho.virtadpt.net/)
+* [Antarctica Starts Here](https://drwho.virtadpt.net/) -- The Doctor
 
-* [Enemy Industry](https://enemyindustry.wordpress.com)
+* [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
 
-* [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/)
+* [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/) -- Skholiast
+
+* [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
+ -- Peter Watts
+ 
+* [Status 451](https://status451.com) -- Meredith Patterson et al
+
+* [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
+
+* [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
+
 
 # Libraries and Archives
 
@@ -46,6 +56,8 @@ its [second incarnation](http://k-punk.org)
 * [telnet BBS Guide](https://www.telnetbbsguide.com/)
 
 * [VXHeaven](http://83.133.184.251/virensimulation.org/index.html)
+
+* [Old Boys' Network](https://www.obn.org/inhalt_index.html)
 
 # Miscellany
 

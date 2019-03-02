@@ -36,7 +36,7 @@ we abstract, from evolutionary theory, an algorithmic description of how those
 life-forms came to exist, and use it _to design intelligence!_ 
 
 
-![Sacculina](/img/Haeckel_Sacculina.png)
+<a href="https://www.youtube.com/watch?v=NLsmZH0VlTI"><img src="/img/Haeckel_Sacculina.png"></a>
 
 ## Coevolution and Parasitism
 
@@ -129,12 +129,10 @@ evolution of its host, in any relevant way, is ill-suited for politics, a craft
 where your instrument is your adversary.
 
 If disengagement is the Scylla, collusion's the Charybdis -- a situation where
-the selective pressure each population exerts on the other is _softened_
-to the point of insignificance, rather than impossibly hardened. The ultimate
-effect on the process is the same: both collusion and disengagement amount to
-a surrender to drift. Complacent apathy and holy radicalism mirror each other, 
-here. Any chance of sculpting the adversary's political
-memeplex is lost, along with any chance of adapting to their tactics.
-All that's left is a sort of delirium, steered only by the vagaries of the
-attention economy. 
-
+the selective pressure each population exerts on the other, rather than being
+impossibly hardened, is _softened_ to the point of insignificance. The ultimate
+effect on the process is the same: both collusion and disengagement amount to a
+surrender to drift. Complacent apathy and holy radicalism mirror each other,
+here. Any chance of sculpting the adversary's political memeplex is lost, along
+with any chance of adapting to their tactics. All that's left is a sort of
+delirium, steered only by the vagaries of the attention economy.

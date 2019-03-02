@@ -14,4 +14,5 @@ admin('Lucca Fraser').
 domain('fm.infotro.de').
 email('feral.machines@bastardi.net').
 abstract('a wilderness supervening on artifice').
+repo('https://github.com/oblivia-simplex/feral_machines').
 port(9697). 

@@ -185,3 +185,8 @@ the git log
 [of this blog's repository](https://github.com/oblivia-simplex/feral_machines),
 so nothing's ever _really_ going to be lost to my inability to leave well enough
 alone. 
+
+As a way of apologising for this vice, the P'log engine will,
+[from this point forward](https://github.com/oblivia-simplex/plog/commit/d8c08cfd006851b2ea62dea51b015954d87f5f69),
+append a footer to each post, indicating the hash of the most recent
+git commit affecting the post in question.
