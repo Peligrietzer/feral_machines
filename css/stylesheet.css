@@ -187,3 +187,11 @@ blockquote {
 .aside {
     color: #8d8e8c;
 }
+
+.post_frontmatter {
+    color: #8d8e8c;
+}
+
+.title_hr {
+    border-color: #8d8e8c;
+}

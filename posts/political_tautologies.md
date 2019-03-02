@@ -1,4 +1,3 @@
-# The Lure of Triviality
 
 Every now and then, I'm reminded of something I must have read (or heard?)
 somewhere, concerning the use of tautologies, or near tautologies, in political

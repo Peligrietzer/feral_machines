@@ -1,5 +1,3 @@
-# Natural Selection Considered Harmful
-
 While evolutionary techniques have been more or less frequently employed in the
 field of *defensive* security -- where they are put to work much in the same way
 as other machine learning algorithms, and built into next-generation firewalls,

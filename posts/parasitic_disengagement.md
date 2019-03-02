@@ -1,4 +1,3 @@
-# Disengagement and Drift
 
 ## Quick and Dirty Introduction to Genetic Programming
 
