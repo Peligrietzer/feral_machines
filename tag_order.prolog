@@ -3,6 +3,7 @@
 super(ethics, virtue).
 
 super(ai, genetic_programming).
+super(ai, machine_learning).
 
 super(computer_science, infosec).
 super(computer_science, ai).
