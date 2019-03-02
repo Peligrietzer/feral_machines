@@ -1,4 +1,3 @@
-# Spirit is a Drider
 
 ![drider](/img/Drider.PNG)
 
