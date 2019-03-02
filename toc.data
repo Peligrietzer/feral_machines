@@ -46,9 +46,7 @@
     [file('evo_vx.md'),
      title('Natural Selection Considered Harmful'),
      abstract('A brief historical overview of the relatively few instances where
-               computer virus design and evolutionary computation have intersected,
-               despite a long-standing fascination of the virus-theoretic community
-               with evolutionary metaphors.'),
+               computer virus design and evolutionary computation have intersected.'),
      date('2019-03-02'),
      tags([genetic_programming, viruses, history, roper])]
 
