@@ -14,28 +14,28 @@
      abstract('On the subject of Elves.'),
      date('2019-02-22')], % guessing
 
-    [file('political_tautologies.md'),
-     title('The Lure of Triviality'),
-     abstract('What role do truisms and tautologies play
-               in political rhetoric?'),
-     date('2019-03-03'),
-     tags([sophistry, populism, terfs, draft])],
+    %% [file('political_tautologies.md'),
+    %%  title('The Lure of Triviality'),
+    %%  abstract('What role do truisms and tautologies play
+    %%            in political rhetoric?'),
+    %%  date('2019-03-03'),
+    %%  tags([sophistry, populism, terfs, draft])],
 
-    [file('evolution_and_weird_machines.md'),
-     title('Evolution and Weird Machines'),
-     abstract('Why are evolutionary techniques well-suited to the
-               exploration of weird machines?'),
-     tags([genetic_programming, weird_machines, exploitation, draft])],
+    %% [file('evolution_and_weird_machines.md'),
+    %%  title('Evolution and Weird Machines'),
+    %%  abstract('Why are evolutionary techniques well-suited to the
+    %%            exploration of weird machines?'),
+    %%  tags([genetic_programming, weird_machines, exploitation, draft])],
 
-    [file('virtue_ethics+machine_learning.md'),
-     title('Virtue Ethics as Machine Learning'),
-     abstract('The regions of our moral landscape that incline us
-               towards virtue ethics, rather than deontology or
-               strict consequentialism, as a means of navigation, share
-               features with those regions of problem space that
-               incline us towards the use of machine learning, rather
-               than classical algorithms.'),
-     tags([machine_learning, virtue, draft])],
+    %% [file('virtue_ethics+machine_learning.md'),
+    %%  title('Virtue Ethics as Machine Learning'),
+    %%  abstract('The regions of our moral landscape that incline us
+    %%            towards virtue ethics, rather than deontology or
+    %%            strict consequentialism, as a means of navigation, share
+    %%            features with those regions of problem space that
+    %%            incline us towards the use of machine learning, rather
+    %%            than classical algorithms.'),
+    %%  tags([machine_learning, virtue, draft])],
 
     [file('parasitic_disengagement.md'),
      title('Disengagement and Drift'),
