@@ -14,12 +14,12 @@
      abstract('On the subject of Elves.'),
      date('2019-02-22')], % guessing
 
-    %% [file('political_tautologies.md'),
-    %%  title('The Lure of Triviality'),
-    %%  abstract('What role do truisms and tautologies play
-    %%            in political rhetoric?'),
-    %%  date('2019-03-03'),
-    %%  tags([sophistry, populism, terfs, draft])],
+    [file('political_tautologies.md'),
+     title('The Lure of Triviality'),
+     abstract('What role do truisms and tautologies play
+               in political rhetoric?'),
+     date('2019-03-03'),
+     tags([sophistry, populism, terfs, draft])],
 
     %% [file('evolution_and_weird_machines.md'),
     %%  title('Evolution and Weird Machines'),
