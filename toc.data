@@ -14,13 +14,6 @@
      abstract('On the subject of Elves.'),
      date('2019-02-22')], % guessing
 
-    [file('blah.md'),
-     title('I do not know'),
-     author(me),
-     abstract('Just testing date stamps for uncommitted files'),
-     tags([mindflayer, test, draft]),
-     date('2019-02-17')],
- 
     [file('political_tautologies.md'),
      title('The Lure of Triviality'),
      abstract('What role do truisms and tautologies play
@@ -56,7 +49,7 @@
                computer virus design and evolutionary computation have intersected,
                despite a long-standing fascination of the virus-theoretic community
                with evolutionary metaphors.'),
-     date('2019-03-10'),
+     date('2019-03-02'),
      tags([genetic_programming, viruses, history, roper])]
 
 ].

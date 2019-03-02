@@ -133,7 +133,9 @@ transmission to transmission. The encryption engine itself, however, would
 remain unencrypted and exposed, and so antiviral software simply looked for
 recognizable encryptors instead.
 
-Next came oligomorphic viruses, starting with Whale in 1990, would use one of a
+Next came oligomorphic viruses, starting with 
+[Whale](https://en.wikipedia.org/wiki/Whale_(computer_virus) in 1990, 
+would use one of a
 fixed set of encryption engines, adding some variability to the mix. This would
 make the problem of detection some 60 or 90 times harder, depending on the
 number of engines, but such distances are easily closed algorithmically.
@@ -159,10 +161,7 @@ cases (unless there are bugs in the metamorphic engine), these changes are
 semantically neutral, and do not affect the functionality of the code (though
 this raises a subtle point regarding what we are to count as 'functionality',
 especially when faced with detectors that turn syntactic quirks and timing
-sidechannels into a life-or-death matter for the virus). They are also, in
-general, reversible, forming a group structure. So long as they are not
-subjected to selective pressure, and complex path-dependencies don't form, the
-'evolution' of a metamorphic virus typically has the form of a random walk.
+sidechannels into a life-or-death matter for the virus). 
 
 It is nevertheless evident how close we are to an actual evolutionary process.
 
@@ -266,7 +265,9 @@ unusual polymorphic engine captured the analysts' attention.
 
 ## 2010-2011: Second Part to Hell: Evoris and Evolus
 
-Second Part to Hell's experiments in viral evolution appear to be the most
+Second Part to Hell's 
+[experiments in viral evolution](http://spth.infotro.de/ArtEvol.html)
+appear to be the most
 sophisticated yet encountered. SPTH begins by identifying computational
 fragility as the principal obstacle to the the evolvability of virus code as
 implemented in x86 assembly. An obvious way to circumvent this problem, SPTH
@@ -324,7 +325,7 @@ evolutionary computation, the virus must carry an implementation of the relevant
 genetic operators with it everywhere it goes -- "the artificial organisms are
 not trapped in virtual systems anymore", SPTH writes, in the conclusion to the
 first of his series of essays on Evoris and Evolus, "they can finally move
-freely -- they took the redpill" (18).
+freely -- they took the redpill").
 
 
 ## The Future of Evolutionary Viruses
@@ -389,9 +390,7 @@ anticipations is in examining the results of relatively free and unconstrained
 exploration of a host environment by evolutionary malware, where the tether to
 semantic invariance is intentionally kept as loose as possible and the specimens
 have the ability to salvage and recombine whatever functional code they can from
-their hosts.
-
-This is where things get particularly interesting:
+their hosts:
 
 
 > A threat might be able to snatch code from another program in its
@@ -418,5 +417,5 @@ This is where things get particularly interesting:
 > segments called plasmids, while viruses routinely integrate bacterial
 > code into their own. Often, viruses carry this piece of code to other
 > bacteria, a phenomenon known as transduction.
-> 
+
 
