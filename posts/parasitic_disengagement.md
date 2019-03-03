@@ -145,7 +145,7 @@ It should be underscored that this is a quick and dirty model. Its
 application is useful, in some cases, as a thought experiment, but
 it makes no pretension to sufficiency in describing political or
 institutional dynamics. On no account should it be taken as given
-that an "evolutionary arms race" the dynamic towards which every
+that an "evolutionary arms race" is the dynamic towards which every
 adversarial situation should expire. There are many reasons to avoid
 this sort of thing.
 [There are cases](http://www.bbc.co.uk/guides/zxsfyrd), for example,
