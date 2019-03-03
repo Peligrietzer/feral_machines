@@ -58,6 +58,7 @@
     [file('convenient_abstractions.md'),
      title('On Ethically Convenient Abstractions'),
      abstract('Brief remark on a common sophism.'),
+     date('2019-03-03'),
      tags([ethics, sophistry])] 
 
 ].
