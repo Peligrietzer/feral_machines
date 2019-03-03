@@ -13,6 +13,3 @@ phrased, the situation has been abstracted in such a way, and to such a degree,
 that its especially uncomfortable aspects have vanished. Just as we do
 for the camera, we illuminate the situation so that its shadows are flattering.
 
-
-
-
