@@ -48,6 +48,16 @@
      abstract('A brief historical overview of the relatively few instances where
                computer virus design and evolutionary computation have intersected.'),
      date('2019-03-02'),
-     tags([genetic_programming, viruses, history, roper])]
+     tags([genetic_programming, viruses, history, roper])],
+
+    [file('weird_and_eerie_machines.md'),
+     title('Weird Machines and Eerie Algorithms'),
+     abstract(''),
+     tags([kpunk, weird_machines, draft])],
+
+    [file('convenient_abstractions.md'),
+     title('On Ethically Convenient Abstractions'),
+     abstract(''),
+     tags([ethics, sophistry])] 
 
 ].

@@ -102,6 +102,8 @@ The article goes on to present an excellent dissection of how this strategy
 is used in TERF discourse, with an illuminating detour analysing its analogue in
 the use of the "All Lives Matter" slogan.
 
+## 
+
 ### The Follow-up 
 
 Once the audience has bought into the framing of the conflict as one between
@@ -149,6 +151,15 @@ ineluctable steps, to what is obviously false" (I have, again, no memory of who
 said this). The "obvious" content of the slogan isn't taken as the premise of a
 rational argument, but as the bait with which the reader is led down a garden path of
 increasingly spurious associations. The playbook, here, is that of the sophist.
+
+## Recognition
+
+There is, perhaps, something peculiarly contemporary about this rhetorical
+stratagem. Its formal signature is enough, it seems, to signal a kind of
+reactionary kinship between otherwise disparate parties. In a post on
+the conservative New Zealand blog, Whale Oil, entitled
+[What Renee Gerlich and Lauren Southern Have in Common](https://www.whaleoil.co.nz/2018/09/what-renee-gerlich-and-lauren-southern-have-in-common/), 
+we see this played out in some detail. 
 
 ## Leftist Variations
 
