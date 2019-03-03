@@ -13,9 +13,6 @@ phrased, the situation has been abstracted in such a way, and to such a degree,
 that its especially uncomfortable aspects have vanished. Just as we do
 for the camera, we illuminate the situation so that its shadows are flattering.
 
-Why break a sweat defending concrete and grisly bigotry, for instance, 
-when you can defend its shadow, "[the outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)", instead?
-
 
 
 
