@@ -132,3 +132,33 @@ surrender to drift. Complacent apathy and holy radicalism mirror each other,
 here. Any chance of sculpting the adversary's political memeplex is lost, along
 with any chance of adapting to their tactics. All that's left is a sort of
 delirium, steered only by the vagaries of the attention economy.
+
+---
+
+# Afterthoughts 
+
+---
+
+## Disclaimer
+
+It should be underscored that this is a quick and dirty model. Its 
+application is useful, in some cases, as a thought experiment, but
+it makes no pretension to sufficiency in describing political or
+institutional dynamics. 
+
+
+## Drift
+
+I should write something longer about "drift", at some point. There's
+a certain context-specificity at play, which isn't really remarked upon,
+when I say, for example, that the abandonment of a political engagement
+to memetic drift will leave it to be "steered only by the vagaries of
+the attention economy". Of course, the attention economy plays a selective
+game of its own, and brings a very definite fitness function to bear
+on the populations it governs. "Drift", here, is only drift, as opposed
+to selection, relative to a _particular_ fitness landscape. Is this
+the case for all cases of drift? It would depend, I suppose, on how
+tractable the fallback fitness landscape is -- to what extent are the
+selective pressures it exerts _adaptable_, and to what extent are they
+endurable only as noise? 
+
