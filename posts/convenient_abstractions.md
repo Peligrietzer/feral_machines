@@ -6,8 +6,8 @@ time these operations are performed, and the space of meaningful
 solutions is cast, only the most superficial dilemmas remain. 
 
 Since these operations do not, in general, benefit from the clear light of an
-explicit moral framing -- they're responsible, after all, for constructing
-that framing -- they tend to be guided by less deliberate choices. A particularly
+explicit moral framing (they're responsible, after all, for constructing
+that framing) they tend to be guided by less deliberate choices. A particularly
 common outcome is that, before the explicit moral question has even been
 phrased, the situation has been abstracted in such a way, and to such a degree,
 that its especially uncomfortable aspects have vanished. Just as we do
