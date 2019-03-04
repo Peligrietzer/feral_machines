@@ -37,6 +37,8 @@ its [second incarnation](http://k-punk.org) -- Mark Fisher
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
 
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
+ 
+* [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
 
 
 # Libraries and Archives
@@ -59,6 +61,15 @@ its [second incarnation](http://k-punk.org) -- Mark Fisher
 
 * [Old Boys' Network](https://www.obn.org/inhalt_index.html)
 
+* [Robert Kowalski's Homepage](https://www.doc.ic.ac.uk/~rak/)
+
+* [www.genetic-programming.org](http://www.genetic-programming.org)
+
+# Tutorials
+
+* [Creating Web Applications in SWI-Prolog](http://www.pathwayslms.com/swipltuts/html/index.html)
+
 # Miscellany
 
 * [Legend of the Red Dragon](/static/lord.html)
+
