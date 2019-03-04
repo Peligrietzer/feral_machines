@@ -1,68 +1,46 @@
-# Fellow Blogs
+# Fellow Blogs (in Alphabetical Order)
 
-* [The Last Instance](https://thelastinstance.com) -- Dominic Fox
-
-* [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
-
-* [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
-
-* [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
-
-* [Slate Star Codex](https://slatestarcodex.com) -- Scott Alexander
-
-* [Meaningness](https://meaningness.com) -- David Chapman
-
-* [K-Punk](http://k-punk.abstractdynamics.org/) and
-its [second incarnation](http://k-punk.org) -- Mark Fisher
-
-* [Human Iterations](http://humaniterations.net) -- William Gillis
-
-* [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
-
-* [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
-
-* [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
+## Currently Active
 
 * [Antarctica Starts Here](https://drwho.virtadpt.net/) -- The Doctor
-
+* [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
+* [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
+* [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 * [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
-
-* [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/) -- Skholiast
-
+* [Human Iterations](http://humaniterations.net) -- William Gillis
+* [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
+* [Meaningness](https://meaningness.com) -- David Chapman
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
- -- Peter Watts
- 
+  -- Peter Watts
+* [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
+* [Slate Star Codex](https://slatestarcodex.com) -- Scott Alexander
+* [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/) -- Skholiast
 * [Status 451](https://status451.com) -- Meredith Patterson et al
-
+* [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
+* [The Last Instance](https://thelastinstance.com) -- Dominic Fox
+* [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
+* [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
+* [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
 
-* [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
- 
-* [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
+## Dormant
 
+* [K-Punk](http://k-punk.abstractdynamics.org/) and
+  its [second incarnation](http://k-punk.org) -- Mark Fisher
+* [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
 
 # Libraries and Archives
 
-* [Memory of the World](https://library.memoryoftheworld.org)
-
-* [Uberty](http://uberty.org/)
-
-* [Phrack](http://www.phrack.org/)
-
-* [The International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO)](https://www.alchemistowl.org/pocorgtfo/)
-
 * [Aaaarg](http://aaaarg.fail/)
-
 * [Jean-Yves Girard's Homepage](http://girard.perso.math.cnrs.fr/Accueil.html)
-
-* [telnet BBS Guide](https://www.telnetbbsguide.com/)
-
-* [VXHeaven](http://83.133.184.251/virensimulation.org/index.html)
-
+* [Memory of the World](https://library.memoryoftheworld.org)
 * [Old Boys' Network](https://www.obn.org/inhalt_index.html)
-
+* [Phrack](http://www.phrack.org/)
 * [Robert Kowalski's Homepage](https://www.doc.ic.ac.uk/~rak/)
-
+* [The International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO)](https://www.alchemistowl.org/pocorgtfo/)
+* [Uberty](http://uberty.org/)
+* [VXHeaven](http://83.133.184.251/virensimulation.org/index.html)
+* [telnet BBS Guide](https://www.telnetbbsguide.com/)
 * [www.genetic-programming.org](http://www.genetic-programming.org)
 
 # Tutorials
