@@ -295,8 +295,8 @@ in its IL sequence, with a certain probability. With the second, however, the IL
 instruction set may mutate as well, meaning that the virtual architecture itself
 may change shape over the course of evolution. Interestingly, the first-order
 mutation operators in the virus are themselves implemented with the viral IL,
-and so a mutation to the alphabet -- one that changes the `xor` instruction to a
-`nop`, for instance -- may, as a consequence, disable, or otherwise change the
+and so a mutation to the alphabet -- one that changes the **xor** instruction to a
+**nop**, for instance -- may, as a consequence, disable, or otherwise change the
 functioning of, first-order mutation (as SPTH observed in some early
 experiments).
 

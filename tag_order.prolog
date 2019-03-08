@@ -17,6 +17,8 @@ super(evolution, genetic_programming).
 super(evolution, memetics).
 super(evolution, coevolution).
 
+super(genetic_programming, roper).
+
 super(politics, populism).
 super(politics, feminism).
 super(politics, racism).
@@ -32,5 +34,7 @@ super(fantasy, 'd&d').
 super(philosophy, hegel).
 super(philosophy, sophistry).
 super(philosophy, academia).
+super(philosophy, ontology).
 
-
+super(interlocutors, the_last_instance).
+super(interlocutors, conflated_automatons).

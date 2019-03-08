@@ -59,6 +59,21 @@
      title('On Ethically Convenient Abstractions'),
      abstract('Brief remark on a common sophism.'),
      date('2019-03-03'),
-     tags([ethics, sophistry])] 
+     tags([ethics, sophistry])],
+
+    [file('xf_on_nature_and_artifice.md'),
+     title('Xenofeminism is a Naturalism: Reply to Konior'),
+     abstract('A response to a criticism of the Xenofeminist Manifesto in
+               "Alien Aesthetics: Xenofeminism and Nonhuman Animals",
+               and "Automate the Womb", by Bogna Konior.'),
+     tags([xenofeminism, naturalism, ontology, ethics, draft])],
+
+    [file('urschleim.md'),
+     title('Secrets of the Ooze'),
+     abstract('A reply to Dom at The Last Instance and Adam at Conflated
+               Automatons, on the subject of "ontological slime" in
+               computation.'),
+     tags([weird_machines, genetic_programming, ontology,
+           the_last_instance, conflated_automatons, roper, draft])]
 
 ].

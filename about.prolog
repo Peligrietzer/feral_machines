@@ -11,9 +11,9 @@
 
 title('Feral Machines').
 admin('Lucca Fraser').
-domain('fm.infotro.de').
+domain('feralmachin.es').
 email('feral.machines@bastardi.net').
-abstract('a wilderness supervening on artifice').
+abstract('yeggogological meditations').
 %abstract('what are the roots that clutch, what branches grow?').
 repo('https://github.com/oblivia-simplex/feral_machines').
 port(9697). 
