@@ -573,7 +573,40 @@ rarely a trivial question, and must in each case be taken up anew.
 
 ### A Tiny ROP Tutorial
 
-Let's craft an example. 
+Let's craft an example. First, just to keep us honest, let's recompile
+hello.c without the "-zexecstack" option, so that W&oplus;X is indeed
+in effect.
+
+```
+$ gcc -fno-stack-protector \
+    -g -O0 -m32 -static \
+    hello.c -o hello
+```
+
+If we like, we can use 
+[readelf](https://linux.die.net/man/1/readelf)
+to view the permissions bequeathed
+to each memory segment when hello is running, and assure ourselves
+that no segment is flagged as both writeable and executable (i.e, "*WE").
+```
+$ readelf -l hello
+
+Elf file type is EXEC (Executable file)
+Entry point 0x8049990
+There are 8 program headers, starting at offset 52
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  LOAD           0x000000 0x08048000 0x08048000 0x001e8 0x001e8 R   0x1000
+  LOAD           0x001000 0x08049000 0x08049000 0x642bc 0x642bc R E 0x1000
+  LOAD           0x066000 0x080ae000 0x080ae000 0x2a56d 0x2a56d R   0x1000
+  LOAD           0x0906a0 0x080d96a0 0x080d96a0 0x02c78 0x03990 RW  0x1000
+  NOTE           0x000134 0x08048134 0x08048134 0x00044 0x00044 R   0x4
+  TLS            0x0906a0 0x080d96a0 0x080d96a0 0x00010 0x00030 R   0x4
+  GNU_STACK      0x000000 0x00000000 0x00000000 0x00000 0x00000 RW  0x10
+  GNU_RELRO      0x0906a0 0x080d96a0 0x080d96a0 0x01960 0x01960 R   0x1
+```
+
 You'll have noticed, in our [example](#code_example), that there is no obvious
 way of reaching the function named **weird()**. For all intents and purposes, 
 it looks like dead code. But (since we disabled compiler optimizations) it's
@@ -584,8 +617,9 @@ $ nm hello | grep weird
 08049b05 T weird
 ```
 
-(Here, we dumped the hello binary's namespace with nm and searched for the name
-"weird" with grep.)
+(Here, we dumped the hello binary's namespace with 
+[nm](https://linux.die.net/man/1/nm) and searched for the name
+"weird" with [grep](https://linux.die.net/man/1/grep).)
 
 With a bit of trial and error (or patience and calculation), we can determine
 the exact offset at which to place this address (in raw, little-endian format,
@@ -651,7 +685,7 @@ called "Return-Oriented Programming", or ROP.
 
 Suppose we want to build a program for the weird return-oriented machine
 that subsists in the **hello** binary, one which, when executed, launches
-the [basic calculator application, bc](https://en.wikipedia.org/wiki/Bc_%28programming_language%29), 
+the [basic calculator application, bc](https://linux.die.net/man/1/bc), 
 from the same working directory. To do this, we're going to need to prepare
 and execute the **execve()** system call, which tells the Linux kernel to
 launch a new program. **execve()** expects to find its arguments -- the 
