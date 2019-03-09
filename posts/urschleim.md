@@ -850,6 +850,19 @@ and involved some extensive experimentation in the literal evolution of
 ROP chains out of an amorphous "primoridal ooze" of gadgetry. The documentation
 and code for that project -- _Urschleim in Silicon: Return Oriented Program
 Evolution with ROPER_ -- can be found [here](http://roper.eschatronics.ca).
+In the course of that project, I constructed a system to foster the evolution
+of ROP-chain populations, and bred them to perform various, often subtle,
+tasks -- classifying the 
+[Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris),
+for example, or playing a game of 
+[Snake](http://roper.eschatronics.ca/roper-doc/videos/roper-snek-misjax-35000.webm).
+The capacity for the evolutionary process to discover and exploit structures
+in the environment, and invent control flow patterns that looked nothing like
+the hand-crafted ROP-chain shown above (which bears a certain stylistic signature
+that makes it relatively easy to detect by an advanced intrusion detection system)
+was particularly remarkable. The yeggogological 
+[creativity of evolution](https://arxiv.org/abs/1803.03453) was
+on full display.
 
 The light shed by William Wimsatt's ontological framework, however, is
 altogether new to me. It was only _while_ writing up this (rather sprawling
