@@ -400,8 +400,7 @@ tells the CPU to jump to that address by writing it to the CPU's "program counte
 This ideal stack of addresses is what we call "the call stack". The call stack,
 in this sense, forms part of the tacit "theoretical" 
 (in
-[Peter Naur's sense of the term](https://news.ycombinator.com/item?id=10833278)
-)
+[Peter Naur's sense of the term](https://news.ycombinator.com/item?id=10833278))
 grasp that programmers have of the control flow structures they're building. 
 It's natural, and, usually, helpful to think of nested subroutines or functions
 as forming a "stack", since we must complete the function we most recently
