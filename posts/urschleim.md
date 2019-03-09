@@ -61,7 +61,7 @@ Platonic abode, computation would be able to grasp itself clearly and dryly.
 Computation _itself_ is recalcitrant to generalization, in some very 
 precise ways. 
 For any non-trivial property,
-it is strictly _impossible_ to concoct a "universal rule" that would let you
+it is strictly _impossible_ to define a "universal rule" that would let you
 partition the universe of programs into those which have that property, and those
 which do not. This is the upshot of 
 [Rice's Theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem),
@@ -71,7 +71,7 @@ deciding, for a given program P, whether or not P exhibits some interesting
 property. But "pretty good", here, cannot mean certain or universally applicable,
 and it is this gaping impasse that the science of
 [static program analysis](https://youtube.com/watch?v=POvX4hYIoxg)
-must forever circumnavigate
+must forever circumnavigate.
 There exist a great many methods of static analysis, but every single one of
 them represents a certain compromise with this impossibility at the heart of
 computation: they may be
