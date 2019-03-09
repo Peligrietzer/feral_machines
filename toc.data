@@ -73,7 +73,7 @@
      abstract('A reply to Dom at The Last Instance and Adam at Conflated
                Automatons, on the subject of "ontological slime" in
                computation.'),
-     tags([weird_machines, genetic_programming, ontology,
-           the_last_instance, conflated_automatons, roper, draft])]
+     tags([weird_machines, genetic_programming, ontology, hacking,
+           the_last_instance, conflated_automatons, roper])]
 
 ].

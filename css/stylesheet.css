@@ -64,16 +64,6 @@ h3 {
     display: block;
 }
 
-@media only screen and (max-width: 1000px) {
-    #main {
-        font-size: 110%;
-        margin-left: 3%;
-        margin-right: 3%;
-        width: 94%;
-        color: #fdfefc;
-    }
-}
-
 
 li.toc_title {
     font-weight: normal;
@@ -210,3 +200,27 @@ code {
     font-weight: bold;
 
 }
+@media only screen and (max-width: 1000px) {
+    #main {
+        font-size: 110%;
+        margin-left: 3%;
+        margin-right: 3%;
+        width: 94%;
+        color: #fdfefc;
+    }
+    code {
+        font-size: 110%;
+        display: block;
+        background-color: black;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        color: #00ff85;
+        counter-reset: line;
+        font-weight: bold;
+
+    }
+
+}
+

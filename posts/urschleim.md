@@ -92,7 +92,7 @@ tangled in the thicket of uncertainty. Like someone -- was it Hegel? -- once
 said about the Concept: _computation wants nothing more than to grasp itself, but
 it ever stands in its own way_. 
 
-### Compilers and Ontology
+### Compiler Ontology
 
 Though Adam doesn't mention these principled limits to universality in computational
 reflexivity, the theme of reflection does come up in an interesting way in his
@@ -398,7 +398,7 @@ stack. Each call **pushes** a new "bookmark", or return address, to the top of
 the stack, and each return **pops** the address from the top of the stack, and
 tells the CPU to jump to that address by writing it to the CPU's "program counter".
 This ideal stack of addresses is what we call "the call stack". The call stack,
-in this sense, forms part of the (more or less spontaneous) "theoretical" 
+in this sense, forms part of the tacit "theoretical" 
 (in
 [Peter Naur's sense of the term](https://news.ycombinator.com/item?id=10833278)
 )
@@ -538,11 +538,42 @@ in the 49th issue of Phrack.
 
 ![smashing the stack](/img/stack_frame_attack.png)
 
-### The Geometry of Innocent Slime on the Bone
+## The Geometry of Innocent Slime on the Bone
 
 It was in response to this sort of attack that the security measure known
-as W&oplus;X ("write xor execute") was introduced.
+as W&oplus;X ("write xor execute") was introduced. What W&oplus;X means is
+just this: that no region of memory should be flagged as being _both
+writeable and executable_ (W&oplus;X = ~(W&X)). This would seem, on the
+surface, to be enough to forestall the confusion of _data_ and _code_
+that's at the heart of every exploit. If code, after all, is just
+_whatever the CPU can execute_, then blocking the direct execution of
+input data would seem to be enough. 
 
+![w&oplus;x](/img/stack_frame_attack_w^x.png)
+
+But this mitigation ultimately fails to prevent remote code execution,
+and it fails because it rests on an insufficiently general concept of
+_code_. The _official_ instruction set architecture isn't 
+the only abstract machine in town, after all. Blocking the execution
+of _anything_ that could count as code would be absurd, since it
+would amount to declaring that a program must be _entirely
+unresponsive to input_ -- what's an application, after all, other than
+a restricted finite automaton, programmed by user input? Could
+we then just devise a way of enforcing a monopoly of the _intended_
+state machine over the resources of the computer? This is the sort
+of thing that sounds simple enough, but which verges on the impossible
+in practice -- or even, more damningly, _in theory_. There is no
+_general_ way of knowing just how many weird machines inhere in a given
+system, as a consequence of Rice's Theorem 
+_(the author waves her hands convincingly)_. It's certainly possible
+to prove that a _specific_ program is unexploitable, but this is 
+rarely a trivial question, and must in each case be taken up anew.
+
+<a name="rop_tutorial"></a>
+
+### A Tiny ROP Tutorial
+
+Let's craft an example. 
 You'll have noticed, in our [example](#code_example), that there is no obvious
 way of reaching the function named **weird()**. For all intents and purposes, 
 it looks like dead code. But (since we disabled compiler optimizations) it's
@@ -708,7 +739,7 @@ the syscall:
 Now we just need to put it all together. 
 
 ```sh
-P=1234567890123456789012  # padding
+P=1234567890123456789012  # smash the stack
 P=${P}$'\x23\xcf\x05\x08' # zero edx and eax
 P=${P}'This is padding.'  # that was padding
 P=${P}$'\xf9\xc0\x07\x08' # increment eax
@@ -745,6 +776,14 @@ For details type `warranty'.
 5 + 7
 12
 ```
+
+For a more thorough, hands-on introduction to return-oriented programming,
+Barrebas has an 
+[excellent tutorial](https://barrebas.github.io/blog/2015/06/28/rop-primer-level0/)
+available, complete with a VM in which to hone your craft. The landmark academic
+study of this technique (which had already established itself in hacking practice)
+is Hovav Shacham's 
+"[The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)](https://hovav.net/ucsd/dist/geometry.pdf)".
 
 
 ## Invisigoth was Right
@@ -797,5 +836,5 @@ This couples nicely with the strong, but never quite justified, hunch that
 guided me through my Master's research: that evolutionary search processes
 are _particularly_ well suited to feeling out "weird machine",
 hidden deep in computational thickets, with their pregnant causes mixed,
-and sculpting code from those dark materials.
+and sculpting code from those dark materials[.](https://www.gutenberg.org/files/20/20-0.txt)
 
