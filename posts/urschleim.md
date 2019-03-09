@@ -65,7 +65,7 @@ it is strictly _impossible_ to define a "universal rule" that would let you
 partition the universe of programs into those which have that property, and those
 which do not. This is the upshot of 
 [Rice's Theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem),
-an corollary of Turing's Halting Theorem. This doesn't mean that we can't 
+a corollary of Turing's Halting Theorem. This doesn't mean that we can't 
 concoct rules (algorithms) that still do a _pretty good job_ of 
 deciding, for a given program P, whether or not P exhibits some interesting
 property. But "pretty good", here, cannot mean certain or universally applicable,
