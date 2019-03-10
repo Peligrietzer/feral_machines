@@ -896,9 +896,9 @@ and sculpting code from those dark materials[.](https://www.gutenberg.org/files/
 ### On the Proliferation of Bugs and the Halting Problem
 
 Though it was never my intention to say so, the flow of this post might
-be taken to suggest that there is some sort of entailment relation between, on
-the one hand, Turing and Rice's undecidability theorems, and the proliferation
-of bugs, leaks, and weird machines, on the other. 
+be taken to suggest that there's some sort of entailment relation between, on
+the one hand, Turing and Rice's undecidability theorems, and, on the other,
+the proliferation of bugs, leaks, and weird machines in actual software.
 
 Strictly speaking, there is no such entailment. 
 What these undecidability theorems do tell us is that there cannot be, in
