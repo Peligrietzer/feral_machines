@@ -644,7 +644,8 @@ let's just put the address of **weird()** again, followed by the address of
 process without incurring a segfault.
 
 ```
-$ ./hello 1234567890123456789012$'\x05\x9b\x04\x08'$'\x05\x9b\x04\x08'$'\xa0\xfd\x04\x08'
+$ ./hello 1234567890123456789012$'\x05\x9b\x04\x08'$'\x05\x9b\x04\x08'\
+$'\xa0\xfd\x04\x08'
 This program is going to greet you.
 Hello, 1234567890123456789012!
 ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
@@ -885,3 +886,37 @@ are _particularly_ well suited to feeling out "weird machine",
 hidden deep in computational thickets, with their pregnant causes mixed,
 and sculpting code from those dark materials[.](https://www.gutenberg.org/files/20/20-0.txt)
 
+
+---
+
+## Afterthoughts
+
+---
+
+### On the Proliferation of Bugs and the Halting Problem
+
+Though it was never my intention to say so, the flow of this post might
+be taken to suggest that there is some sort of entailment relation between, on
+the one hand, Turing and Rice's undecidability theorems, and the proliferation
+of bugs, leaks, and weird machines, on the other. 
+
+Strictly speaking, there is no such entailment. 
+What these undecidability theorems do tell us is that there cannot be, in
+principle, any God's-eye-view from which we could survey the space of general
+computation, and detect any leaks or misspecifications in advance. (Whether a
+"Halting Oracle" could, indeed, provide the foundation for such a vantage point,
+I'm unsure -- it certainly shouldn't be taken for granted that it would -- but
+its impossibility _certainly_ implies that of the even more godlike "Rice
+Oracle", that would be able to tell us for any program p and property P, whether
+or not P(p).) The proliferation of bugs and leaks is, itself, a contingent
+matter -- nothing _demands_ that it take place -- but there is no silver bullet
+to stop it, once and for all.
+
+In the absence of such Oracles, the verification of software remains 
+possible, on a case by case basis, but it becomes a much more complicated
+affair, to carried out heterogeneous instruments, imperfectly compensating
+for one another's blind spots.
+
+Dom has more to say on this particular topic, and some of the
+misunderstandings it frequently invites, over at 
+[The Last Instance](https://thelastinstance.com/posts/terminal_cases).
