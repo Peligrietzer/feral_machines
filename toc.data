@@ -75,6 +75,11 @@
                with much yeggogological meandering.'),
      date('2019-03-09'),
      tags([weird_machines, genetic_programming, ontology, 
-           the_last_instance, conflated_automatons, roper])]
+           the_last_instance, conflated_automatons, roper])],
+
+    [file('modularity_in_philosophy.md'),
+     title('Modularity in Philosophy'),
+     abstract(''),
+     tags([draft, philosophy, computer_science])]
 
 ].

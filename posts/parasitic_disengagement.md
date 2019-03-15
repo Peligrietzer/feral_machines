@@ -97,6 +97,7 @@ to dominate the evolutionary process. Adaptation has stopped, and any
 "intelligence" that the system might have exhibited gives way to a kind of
 free-floating delirium.
 
+<a name="angels"></a>
 
 ## The Discourse of Angels
 

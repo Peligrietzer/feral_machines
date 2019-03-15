@@ -906,7 +906,7 @@ principle, any God's-eye-view from which we could survey the space of general
 computation, and detect any leaks or misspecifications in advance. (Whether a
 "Halting Oracle" could, indeed, provide the foundation for such a vantage point,
 I'm unsure -- it certainly shouldn't be taken for granted that it would -- but
-its impossibility _certainly_ implies that of the even more godlike "Rice
+its impossibility _certainly_ implies that of an even more godlike "Rice
 Oracle", that would be able to tell us for any program p and property P, whether
 or not P(p).) The proliferation of bugs and leaks is, itself, a contingent
 matter -- nothing _demands_ that it take place -- but there is no silver bullet
