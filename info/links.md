@@ -11,6 +11,7 @@
 * [Human Iterations](http://humaniterations.net) -- William Gillis
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
 * [Meaningness](https://meaningness.com) -- David Chapman
+* [Naught Thought](https://naughtthought.wordpress.com/) -- Ben Woodard
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
   -- Peter Watts
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
