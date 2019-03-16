@@ -3,7 +3,7 @@
 ## Currently Active
 
 * [Antarctica Starts Here](https://drwho.virtadpt.net/) -- The Doctor
-* [C4SS](https://c4ss.org)
+* [C4SS](https://c4ss.org) -- Center for a Stateless Society
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com/) -- Adam
 * [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
