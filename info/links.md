@@ -14,6 +14,7 @@
 * [Naught Thought](https://naughtthought.wordpress.com/) -- Ben Woodard
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
   -- Peter Watts
+* [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
 * [Slate Star Codex](https://slatestarcodex.com) -- Scott Alexander
 * [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/) -- Skholiast
