@@ -90,6 +90,6 @@
     [file('paring_knife.md'),
      title('Paring Knife'),
      abstract('A poem I wrote a few years back -- in 2014, I think it was.'),
-     tags([poem])]
+     tags([draft, poem])]
 
 ].
