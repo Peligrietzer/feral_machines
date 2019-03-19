@@ -31,7 +31,7 @@ The cider cans hush as you pad past the sill,<br>
 
 <br>
 
-I wash dishes as my hair dries,<br>
+I wash dishes while my hair dries,<br>
 without habit or routine.<br>
 The floor's beneath my feet<br>
 & as clean as a hydrogen bomb.<br>
