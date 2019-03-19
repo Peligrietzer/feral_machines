@@ -85,11 +85,11 @@
     [file('memory_pearls.md'),
      title('Untitled Poem'),
      abstract(''),
-     tags([draft, poem])],
+     tags([draft, poetry])],
 
     [file('paring_knife.md'),
      title('Paring Knife'),
      abstract('A poem I wrote a few years back -- in 2014, I think it was.'),
-     tags([poem])]
+     tags([poetry])]
 
 ].
