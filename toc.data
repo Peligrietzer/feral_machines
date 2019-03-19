@@ -12,7 +12,7 @@
      author('Peli Grietzer & Lucca Fraser'),
      tags(['d&d', hegel, psychoanalysis]),
      abstract('On the subject of Elves.'),
-     date('2019-02-22')], % guessing
+     date('2019-02-24')], % guessing
 
     [file('political_tautologies.md'),
      title('The Lure of Triviality'),
