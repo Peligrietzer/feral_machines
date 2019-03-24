@@ -21,7 +21,7 @@ There are ghosts in the anthills.<br>
 
 <br>
 
-We could smell winter end from your window<br>
+We could smell winter end from your window,<br>
 
 the fruit that fell in autumn,<br>
 the pulp beneath the snow.<br>
@@ -38,7 +38,7 @@ The floor's beneath my feet<br>
 
 <br>
 
-I held you in my core till the skin broke<br>
+I held you in my core till the skin broke,<br>
 but I only held my core by the stem.<br>
 
 <br>

@@ -37,6 +37,7 @@
 # Libraries and Archives
 
 * [Aaaarg](http://aaaarg.fail/)
+* [Gauss PDF](http://www.gauss-pdf.com/)
 * [Jean-Yves Girard's Homepage](http://girard.perso.math.cnrs.fr/Accueil.html)
 * [Memory of the World](https://library.memoryoftheworld.org)
 * [Old Boys' Network](https://www.obn.org/inhalt_index.html)
