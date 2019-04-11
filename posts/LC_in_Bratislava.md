@@ -131,7 +131,7 @@ complicating strand to this definition; alienation and/as rationality.
 
 # Alienation and/as Rationality
 
-**DB:**: As a way to enter this and to be clear from the start, the xenofeminist
+**DB:** As a way to enter this and to be clear from the start, the xenofeminist
 project is one that recognizes that a retreat to small-scale tactics and
 localized politics are insufficient given the scale of the problems we face as a
 species and much of how must operate now. This is not to say, the work done at a
