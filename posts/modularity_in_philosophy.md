@@ -1,6 +1,6 @@
 # Your Rhizome is Unmaintainable
 
-Over a series of emails, my friend Patrick McHugh made a few suggestions about
+Over a series of emails, my friend Pat McHugh made a few suggestions about
 modularity in philosophy, which I've found myself thinking about every now and
 then:
 
@@ -22,6 +22,23 @@ engineering, I think. A system that stands or falls as a monolithic whole will,
 under most circumstances, fall. There's a brittleness in holistic unity -- 
 subjecting any _part_ of such a system to revision will frequently entail major
 or minor revisions in every other component.
+
+# A Grammar of Relationality: Directed Graphs
+
+What monolithism and modularity are describing, here, are different patterns
+of connectivity in a system of philosophy. Pat gives the example of the ways
+in which our theoretical commitments demand and are entangled with one another,
+but we could perhaps generalize this to something like *conceptual dependency*,
+where we say that some theoretical construct T is *conceptually dependent* on
+another S if we can't make sense of T without already having a conceptual grasp
+on T. 
+
+In either case, we seem to be dealing with *transitive*, and, in general,
+*directed* relation. If A depends on B, and B depends on C, then A depends
+on C as well. And dependence isn't necessarily symmetrical: knowing that A
+depends on B doesn't give us any reason to believe that B depends on A. 
+
+These properties 
 
 ## Epistemic Consequences of Monolithic Systematicity
 

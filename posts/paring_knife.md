@@ -21,7 +21,7 @@ There are ghosts in the anthills.<br>
 
 <br>
 
-We could smell winter end from your window,<br>
+We could smell winter end from your window<br>
 
 the fruit that fell in autumn,<br>
 the pulp beneath the snow.<br>

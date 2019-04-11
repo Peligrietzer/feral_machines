@@ -23,16 +23,20 @@
 * [The Digital Antiquarian](https://www.filfre.net/) -- Jimmy Maher
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
+* [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
 * [Transitional Space](https://transitionalspace1.blogspot.com) -- Benjamin Noys
 * [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
+* [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
+* [Xenogothic](https://xenogothic.com) 
 
 ## Dormant
 
 * [K-Punk](http://k-punk.abstractdynamics.org/) and
   its [second incarnation](http://k-punk.org) -- Mark Fisher
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
+* [Semiotechnic Field Notes](http://field-notes.semiotechnic.net) -- Semiotechnician
 
 # Libraries and Archives
 

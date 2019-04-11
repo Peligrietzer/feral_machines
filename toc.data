@@ -59,7 +59,7 @@
      title('On Ethically Convenient Abstractions'),
      abstract('Brief remark on a common sophism.'),
      date('2019-03-03'),
-     tags([ethics, sophistry])],
+     tags([ethics, sophistry, abstraction])],
 
     [file('xf_on_nature_and_artifice.md'),
      title('Xenofeminism is a Naturalism: Reply to Konior'),
@@ -75,7 +75,7 @@
                with much yeggogological meandering.'),
      date('2019-03-09'),
      tags([weird_machines, genetic_programming, ontology, 
-           the_last_instance, conflated_automatons, roper])],
+           the_last_instance, conflated_automatons, abstraction, roper])],
 
     [file('modularity_in_philosophy.md'),
      title('Modularity in Philosophy'),
@@ -90,6 +90,22 @@
     [file('paring_knife.md'),
      title('Paring Knife'),
      abstract('A poem I wrote a few years back -- in 2014, I think it was.'),
-     tags([poetry])]
+     tags([poetry])],
+
+    [file('lack_and_leak.md'),
+     title('Lack and Leak'),
+     abstract('Some comments on Valentin Golev\'s analogies between psychoanalysis and computing.'),
+     tags([psychoanalysis, abstraction, weird_machines, draft])],
+
+    [file('abstraction.md'),
+     title('What do Leaky Abstractions Leak?'),
+     abstract('A short post on one concept of abstraction.'),
+     tags([draft, abstraction, weird_machines])],
+
+    [file('LC_in_Bratislava.md'),
+     title('A Question of Will: Laboria Cuboniks in Bratislava'),
+     abstract('Transcript of a talk we gave in Bratislava, in 2016'),
+     author('Laboria Cuboniks'),
+     tags([draft, xenofeminism, memetics, ethics])]
 
 ].

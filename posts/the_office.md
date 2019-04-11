@@ -22,9 +22,12 @@ sheds some light on what's going on here:
 
 how is The Office such a magnificent work of art, while Gervais' standup comedy is so utterly humourless and boring?
 
-i think the genius of The Office (the UK version) was in its metacomedy. you never laughed at David Brent's jokes directly, you laughed only after the awkward stress of how jarringly _bad_ they were finally broke
-most of the time, you laughed just to have some cathartic release from your embarrassment on behalf of all the characters involved. and it was genius, one of the greatest comedies ever made.
-Extras was pretty great, too
+i think the genius of The Office (the UK version) was in its metacomedy. you
+never laughed at David Brent's jokes directly, you laughed only after the
+awkward stress of how jarringly _bad_ they were finally broke most of the time,
+you laughed just to have some cathartic release from your embarrassment on
+behalf of all the characters involved. and it was genius, one of the greatest
+comedies ever made. Extras was pretty great, too
 
 I think that @Peli Grietzer’s remark about object-vs-meta-level in art applies here:
 > The only thing I ever, ever want from art is the ability to feel *about* what I could previously only feel *in*. Maybe my definition of bad art is 'when the object-language and the meta-language are the same'

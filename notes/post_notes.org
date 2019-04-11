@@ -22,3 +22,6 @@ I introduced [[http://roper.eschtronics.ca][ROPER]], imagery that made it into t
 /Urschleim in Silicon: Return Oriented Program Evolution with ROPER/.
 
 [[/img/AI_ooze_transparent.png]]
+
+* Lack and Leak
+
