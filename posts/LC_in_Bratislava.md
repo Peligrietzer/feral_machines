@@ -521,7 +521,7 @@ another -- is to approach this problem of crafting better corruptive spheres of
 influence, of re-engineering the memetic ooze we swim in, and ask if we can
 treat this as a sort of artificial environment. To approach these problems the
 way we would in evolutionary computation, or genetic programming. I don't mean
-the programming of DNA, I mean the the use of natural selection as a
+the programming of DNA, I mean the use of natural selection as a
 computational algorithm, for evolving programs that converge on unknown optima
 in a certain problem space. Can we treat the wonderfully rich cross-hatching of
 our evolutionary process that the memes bring us into -- can we treat this as
@@ -537,7 +537,7 @@ programming and we take this approach –- it is a sub-discipline of
 machine-learning which is used to solve problems for which there are typically
 no known, tractable deterministic solutions, and is used to do something that
 approximates what we call learning when we see it in humans. And, so, to
-sort of, understand how this might work -– if anyone ever took, like a philosophy
+sort of, understand how this might work -– if anyone ever took, like, a philosophy
 101, you've probably read the various arguments for the existence of god; you
 probably know the theological argument that supposes that you find a watch on a
 beach, that obviously looks like it's a product of intelligent design, and you'd
