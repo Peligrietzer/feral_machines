@@ -533,17 +533,18 @@ artificial intelligences.)
 
 
 And this is the other thing, in computer science, when we use the genetic
-programming and we take this approach – it is a sub discipline of
-machine-learning which is used to solve problems that typically there is no
-deterministic solution for, and is used to do something that only approximates
-what we call learning when we see it in humans. And, so, to sort of, understand
-how this might work – if anyone ever took, like a philosophy 101, you've
-probably read the various arguments for the existence of god; you probably know
-the theological argument that supposes that you find a watch on a beach, that
-obviously looks like it's a product of intelligent design, and you'd be crazy to
-think it was produced randomly, blah, blah, blah, therefore God exists. You
-know, it all seems silly, and all that, but there's an insight there, which is:
-_blind selective evolutionary processes *do* approximate what we call intelligence_.
+programming and we take this approach –- it is a sub-discipline of
+machine-learning which is used to solve problems for which there are typically
+no known, tractable deterministic solutions, and is used to do something that
+approximates what we call learning when we see it in humans. And, so, to
+sort of, understand how this might work -– if anyone ever took, like a philosophy
+101, you've probably read the various arguments for the existence of god; you
+probably know the theological argument that supposes that you find a watch on a
+beach, that obviously looks like it's a product of intelligent design, and you'd
+be crazy to think it was produced randomly, blah, blah, blah, therefore God
+exists. You know, it all seems silly, and all that, but there's an insight
+there, which is: _blind selective evolutionary processes *do* approximate what
+we call intelligence_.
 
 And if there is such a thing as collective intelligence, it's not some hive
 mind, not this kind of Borg of consciousness, or human brains wired together (not
