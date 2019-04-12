@@ -104,8 +104,8 @@
 
     [file('LC_in_Bratislava.md'),
      title('A Question of Will: Laboria Cuboniks in Bratislava'),
-     abstract('Transcript of a talk we gave in Bratislava, in 2016'),
+     abstract('Transcript of a talk we gave in Bratislava, in 2016.'),
      author('Laboria Cuboniks'),
-     tags([draft, xenofeminism, memetics, ethics])]
+     tags([xenofeminism, memetics, ethics])]
 
 ].
