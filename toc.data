@@ -106,6 +106,19 @@
      title('A Question of Will: Laboria Cuboniks in Bratislava'),
      abstract('Transcript of a talk we gave in Bratislava, in 2017.'),
      author('Laboria Cuboniks'),
-     tags([xenofeminism, memetics, ethics])]
+     tags([xenofeminism, memetics, ethics])],
+
+    [title('The Eight Primary Statements of the Tractatus, as Completed by GPT-2'),
+     file('statement_8.md'),
+     abstract('I fed the seven statements of Wittgenstein\'s Tractatus Logico-Philosophicus to the restricted GPT-2 model, and it generated an eighth.'),
+     author('Ludwig Wittgenstein & GPT-2'),
+     tags([machine_learning, philosophy, wittgenstein, draft])],
+
+    [title('Pale River'),
+     file('pale_river.md'),
+     abstract('A new poem.'),
+     author('Lucca Fraser'),
+     data('2019-04-15'),
+     tags([poetry])]
 
 ].
