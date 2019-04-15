@@ -12,7 +12,7 @@ I remember you doing nothing, but writing the rest of it down.
 I remember wishing I could have less bliss. I remember you taking a bath in a
 now entirely empty room, after a thirty-second class. I remember the one person
 who loved you the minute you let her in here spraying dust unspooled on the
-futon -- I remember it covered in leaves! I remember there were dark, savage-grey
+futon. I remember it covered in leaves! I remember there were dark, savage-grey
 brambles, old black swirling pastes hanging free from the wall, black black
 orange horizontal piping leading out on dowel ends, old black black orange old
 black, starving. I remember starving, engaged in work so trivial that it gave me
