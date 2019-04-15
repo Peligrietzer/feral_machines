@@ -21,7 +21,7 @@ stole a blood-plume sting from a putrid tomato. I died.
 
 <br>
 
-There are always those who have walked through the woods, watchlessly watching
+There always are those who have walked through the woods, watchlessly watching
 on, you know.
 
 <br>
