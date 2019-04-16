@@ -1,7 +1,7 @@
 <br>
 
 I remember two other times when you strangled me to death and all that shit. I
-remember that echoes on the Pale River strike with a jolt of agony. 
+remember echoes on the Pale River, struck with a jolt of agony. 
 Oh Barbarian! I remember that acrid sheath of caress or the bite of a kitten
 moist at your heels!
 (It opened up horizons from which no one could escape.)
