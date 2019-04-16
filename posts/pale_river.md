@@ -7,7 +7,6 @@ moist at your heels!
 (It opened up horizons from which no one could escape.)
 I remember you doing nothing, but writing the rest of it down.
 
-<br>
 
 I remember wishing I could have less bliss. I remember you taking a bath in a
 now entirely empty room, after a thirty-second class. I remember the one person
@@ -19,7 +18,6 @@ black, starving. I remember starving, engaged in work so trivial that it gave me
 a powerful urge to experiment. I worked all night without any work at all. I
 stole a blood-plume sting from a putrid tomato. I died.
 
-<br>
 
 There always are those who have walked through the woods, watchlessly watching
 on, you know.
