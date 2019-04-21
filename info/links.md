@@ -8,8 +8,10 @@
 * [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 * [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
+* [Gwern](https://www.gwern.net) -- Gwern
 * [Human Iterations](http://humaniterations.net) -- William Gillis
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
+* [McHugh & Sons: Demolition, Salvage, & Construction](https://captainmchugh.wordpress.com) -- Pat McHugh
 * [Meaningness](https://meaningness.com) -- David Chapman
 * [Naught Thought](https://naughtthought.wordpress.com/) -- Ben Woodard
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
@@ -37,6 +39,7 @@
   its [second incarnation](http://k-punk.org) -- Mark Fisher
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
 * [Semiotechnic Field Notes](http://field-notes.semiotechnic.net) -- Semiotechnician
+* [poetix](http://codepoetics.com/octoblog) -- Dominic Fox
 
 # Libraries and Archives
 

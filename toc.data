@@ -118,7 +118,15 @@
      file('pale_river.md'),
      abstract('A new poem.'),
      author('Lucca Fraser'),
-     data('2019-04-15'),
-     tags([poetry])]
+     date('2019-04-15'),
+     tags([poetry])],
+
+    [title('Feminisms of the Future, Now: Rethinking Technofeminism and the Manifesto Form'),
+     author('Lucca Fraser interviewed by Esmé Hogeveen'),
+     abstract('Esmé interviewed me for Issue 132 of C magazine, back in 2016, on
+     the the Xenofeminist Manifesto, and related topics.'),
+     file('c_interview.md'),
+     tags([xenofeminism, interview])
+    ]
 
 ].
