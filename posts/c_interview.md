@@ -1,4 +1,6 @@
-## Introduction 
+# Introduction 
+
+---
 
 "Ours is a world in vertigo. It is a world that swarms with technological
 mediation, interlacing our daily lives with abstraction, virtuality, and
@@ -38,6 +40,13 @@ aphoristic structure of XFM, the interview is divided into five question
 clusters: DEFINE, ATTEND, UPEND, EXTEND and MANIFEST. Readers should feel free
 to read sequentially or non-sequentially as desired. The full text of XFM is
 available online: http://www.laboriacuboniks.net/ 
+
+---
+
+# Interview
+
+---
+
 
 > Who exactly is Laboria Cuboniks, and is the group still active?
 
