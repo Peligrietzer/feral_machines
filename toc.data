@@ -127,6 +127,12 @@
      the the Xenofeminist Manifesto, and related topics.'),
      file('c_interview.md'),
      tags([xenofeminism, interview])
-    ]
+    ],
+
+    [title('TBD'),
+     author('Lucca Fraser'),
+     abstract('On Nina Power\'s apology.'),
+     file('dear_nina.md'),
+     tags([feminism, terf, draft])]
 
 ].
