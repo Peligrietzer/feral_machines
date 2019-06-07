@@ -62,7 +62,7 @@ people of colour to use public restrooms?
 Would you be saying, had you been there at the right time, that we shouldn't
 rush into treating women as persons until we had "addressed the concerns" of
 men? Would you consider this kind of hesitancy appropriate, given that
-recognizing women's personhood would, no less that the current struggle for
+recognizing women's personhood would, no less than the current struggle for
 trans recognition, require us to "force changes to social and linguistic life"?
 (Or should we, even now, make the right to free and safe abortions contingent on
 appeasing the "collective concerns" of "religious women, men, parents, etc."?
@@ -132,3 +132,32 @@ eventual abolition of gender, as a political category. But for this to come
 about, I think that we must first refuse, as far as possible, the *coercive*
 inscription of that category in our lives. 
 
+---
+
+Peli Grietzer [5:29 PM] one thought about this is that people tend to forget
+what an absolute standard, mainstream thing it is to draw political or legal
+distinctions in ways that are wrong/arbitrary 'on substance.' like, age limits
+on things, or procedures that demand the something known to be true be
+disregarded in a trial because the evidence was acquired illegally
+
+0xdeba5e12 [5:29 PM] right, and these aren't necessarily irrational if there are
+grounds for drawing a line clearly, and any particular line is bound to be
+arbitrary, then there are grounds for drawing a clear line arbitrarily. age of
+consent is a great example. i think there might be something somewhere in hegel
+about this, iirc and in the case of trial protocols, it is on the whole more
+important that the protocols for trials be unambiguous and strict than that they
+_always_ be faithful to the truth (edited) at least according to the principles
+behind them -- rule of law and all that i like this analogy a lot, actually just
+to treat self-identification as a protocol that we can anticipate leading to the
+least injustice, and putting that kind of formal simplicity ahead of the issue
+of any contingent "false positives" on ethical grounds, because that kind of
+formal elegance is a better guard against tyranny than meticulous, fact-checking
+accuracy _even if_ you arrived at some fully-trans-activist-approved metric of
+"gender accuracy" to work with -- the application of that metric would tend
+towards administrative overreach, privacy violation, and oppressive levels of
+scrutiny could you imagine having your "lived sense of gender" examined by the
+authorities?
+
+Peli Grietzer [5:37 PM] i like this point a lot! that (at least provisionally)
+we can expect that any philosophical understanding of gender we might arrive it
+would not provide a practical criterion preferable to self identification
