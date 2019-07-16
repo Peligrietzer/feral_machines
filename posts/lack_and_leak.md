@@ -60,8 +60,12 @@ abstraction in the psychoanalytic domain.
 The insight that caught my attention here, for starters, is that what Lacan and
 his school call the Symbolic Order can perhaps be understood as what we
 programmers call an *abstraction layer*. This sets the scene for interpreting
-"lack" not as a flickering, quasi-mystical nothingness, but as a "leak" in
-that layer. The symptom is a side-channel. And an exploit, or a "weird machine"?
+"lack" not as a flickering, quasi-mystical nothingness, but as a "leak" in that
+layer. 
+
+The symptom, then, is a side-channel.
+
+And an exploit?
 What strange [nam-shubs](http://pages.erau.edu/~andrewsa/NamShubandCode1.html)
 play this role?
 
