@@ -120,6 +120,13 @@
      author('Lucca Fraser'),
      date('2019-04-15'),
      tags([poetry])],
+     
+    [title('Whore for Capitalism: On Publishing a Book'),
+     file('lerman-whore_for_capitalism.md'),
+     abstract('TODO'),
+     date('2019-07-22'),
+     tags([draft, feminism, writing, guest]),
+     author('Lindsay Lerman')],
 
     [title('Feminisms of the Future, Now: Rethinking Technofeminism and the Manifesto Form'),
      author('Lucca Fraser interviewed by Esme Hogeveen'),
