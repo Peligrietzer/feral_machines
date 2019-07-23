@@ -1,3 +1,5 @@
+# A Short Introduction
+
 Lindsay Lerman and I became friends during our time in the philosophy
 PhD programme at the University of Guelph, back before we both ambivalently
 jumped ship from academia. A couple of months ago, she and I were talking about
@@ -21,6 +23,8 @@ publish it before her book was released. A few weeks later she wrote back:
 > bullshit.
 
 So, here it is. Feral Machine's first guest post.
+
+-- Lucca
 
 ---
 
