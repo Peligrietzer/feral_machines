@@ -10,6 +10,7 @@
 * [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
 * [Gwern](https://www.gwern.net) -- Gwern
 * [Human Iterations](http://humaniterations.net) -- William Gillis
+* [Kid MarsCat](https://kidmarscat.neocities.org) -- Cata Martinez / MarsCat / Lucca / etc. 
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
 * [McHugh & Sons: Demolition, Salvage, & Construction](https://captainmchugh.wordpress.com) -- Pat McHugh
 * [Meaningness](https://meaningness.com) -- David Chapman
