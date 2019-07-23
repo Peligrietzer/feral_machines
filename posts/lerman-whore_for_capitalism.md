@@ -1,12 +1,12 @@
-Lindsay Lerman's a friend of mine. We met back during our time in the philosophy
+Lindsay Lerman and I became friends during our time in the philosophy
 PhD programme at the University of Guelph, back before we both ambivalently
 jumped ship from academia. A couple of months ago, she and I were talking about
 a piece she'd written on the social climate she'd been encountering as her
 novel, 
 [I'm from Nowhere](https://clashbooks.com/new-products-2/lindsay-lerman-im-from-nowhere-preorder),
-approached publication. She showed the piece, I told
+approached publication. She showed me the piece, I told
 her I really liked it, and she told me that she was looking for a place to
-publish it before her book hit the presses. A few weeks later she wrote back:
+publish it before her book was released. A few weeks later she wrote back:
 
 > You know what? Fuck all the journals, all the lit mags, all the
 > respectable outlets. They keep telling me (re: this piece about the industry)
