@@ -22,7 +22,7 @@ publish it before her book was released. A few weeks later she wrote back:
 > more it should be on a blog, open to everyone and without all the extra
 > bullshit.
 
-So, here it is. Feral Machine's first guest post.
+So, here it is. Feral Machines' first guest post.
 
 -- Lucca
 
