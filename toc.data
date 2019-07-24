@@ -121,6 +121,6 @@
      abstract('A compilation of half-finished, half-started posts, which have been collecting dust and choking my sense of accomplishment in my ~/src/feral_machines/content/posts/scratch directory. I think I\'ll try to make a monthly (bi-monthly?) routine of these.'),
      file('defrag-0.md'),
      date('2019-07-23'),
-     tags([misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
+     tags([draft, misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
     ]
 ].
