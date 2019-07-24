@@ -14,12 +14,12 @@
      abstract('On the subject of Elves.'),
      date('2019-02-24')], % guessing
 
-    [file('political_tautologies.md'),
-     title('The Lure of Triviality'),
-     abstract('What role do truisms and tautologies play
-               in political rhetoric?'),
-     date('2019-03-03'),
-     tags([sophistry, populism, terfs, draft])],
+    %% [file('political_tautologies.md'),
+    %%  title('The Lure of Triviality'),
+    %%  abstract('What role do truisms and tautologies play
+    %%            in political rhetoric?'),
+    %%  date('2019-03-03'),
+    %%  tags([sophistry, populism, terfs, draft])],
 
     %% [file('evolution_and_weird_machines.md'),
     %%  title('Evolution and Weird Machines'),
@@ -50,23 +50,18 @@
      date('2019-03-02'),
      tags([genetic_programming, viruses, history, roper])],
 
-    [file('weird_and_eerie_machines.md'),
-     title('Weird Machines and Eerie Algorithms'),
-     abstract(''),
-     tags([kpunk, weird_machines, draft])],
-
     [file('convenient_abstractions.md'),
      title('On Ethically Convenient Abstractions'),
      abstract('Brief remark on a common sophism.'),
      date('2019-03-03'),
      tags([ethics, sophistry, abstraction])],
 
-    [file('xf_on_nature_and_artifice.md'),
-     title('Xenofeminism is a Naturalism: Reply to Konior'),
-     abstract('A response to a criticism of the Xenofeminist Manifesto in
-               "Alien Aesthetics: Xenofeminism and Nonhuman Animals",
-               and "Automate the Womb", by Bogna Konior.'),
-     tags([xenofeminism, naturalism, ontology, ethics, draft])],
+    %% [file('xf_on_nature_and_artifice.md'),
+    %%  title('Xenofeminism is a Naturalism: Reply to Konior'),
+    %%  abstract('A response to a criticism of the Xenofeminist Manifesto in
+    %%            "Alien Aesthetics: Xenofeminism and Nonhuman Animals",
+    %%            and "Automate the Womb", by Bogna Konior.'),
+    %%  tags([xenofeminism, naturalism, ontology, ethics, draft])],
 
     [file('urschleim.md'),
      title('Secrets of the Ooze'),
@@ -77,25 +72,10 @@
      tags([weird_machines, genetic_programming, ontology, 
            the_last_instance, conflated_automatons, abstraction, roper])],
 
-    [file('modularity_in_philosophy.md'),
-     title('Modularity in Philosophy'),
-     abstract(''),
-     tags([draft, philosophy, computer_science])],
-
-    [file('memory_pearls.md'),
-     title('Untitled Poem'),
-     abstract(''),
-     tags([draft, poetry])],
-
     [file('paring_knife.md'),
      title('Paring Knife'),
      abstract('A poem I wrote a few years back -- in 2014, I think it was.'),
      tags([poetry])],
-
-    [file('lack_and_leak.md'),
-     title('Lack and Leak'),
-     abstract('Some comments on Valentin Golev\'s analogies between psychoanalysis and computing.'),
-     tags([psychoanalysis, abstraction, weird_machines, draft])],
 
     [file('abstraction.md'),
      title('What do Leaky Abstractions Leak?'),
@@ -136,10 +116,11 @@
      tags([xenofeminism, interview])
     ],
 
-    [title('TBD'),
+    [title('Defrag Commit #0'),
      author('Lucca Fraser'),
-     abstract('On Nina Power\'s apology.'),
-     file('dear_nina.md'),
-     tags([feminism, terf, draft])]
-
+     abstract('A compilation of half-finished, half-started posts, which have been collecting dust and choking my sense of accomplishment in my ~/src/feral_machines/content/posts/scratch directory. I think I\'ll try to make a monthly (bi-monthly?) routine of these.'),
+     file('defrag-0.md'),
+     date('2019-07-23'),
+     tags([misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
+    ]
 ].

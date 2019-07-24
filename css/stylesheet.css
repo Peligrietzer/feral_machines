@@ -188,7 +188,7 @@ blockquote {
 }
 
 code {
-    font-size: 150%;
+    font-size: 100%;
     display: block;
     background-color: black;
     padding-left: 2em;
@@ -209,7 +209,7 @@ code {
         color: #fdfefc;
     }
     code {
-        font-size: 110%;
+        font-size: 80%;
         display: block;
         background-color: black;
         padding-left: 1em;
