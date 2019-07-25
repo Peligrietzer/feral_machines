@@ -617,12 +617,16 @@ I was pretty happy with the way this one turned out:
 
 ```c
 #include <stdio.h>
-
+/* sample rate: 8000 Hz. Unsigned 8 bit. 
+ * compile with `gcc foo2.c -o foo`
+ * play with `./foo2 | aplay -r 8000`
+ */
 void main() {
-  int t;
+  long int t;
+  int rev = 0;
   for (t=0;;t++) {
     putchar(
-        0xFF
+        0xFA
         & (
           t 
           & t >> 6
@@ -631,14 +635,16 @@ void main() {
              : t >> 8) 
           / (t <= 0? 1 : (1 + t % 32))
           ^ (t % 30)
-          + ((t * (t>>18) * !(3 & t>>19)) & 0x0a)
-          ^ ((t * (t>>19)) & 0xe1) //?
+          + ((t * (t>>18)) & 0xe0)
+          & (t > (1<<18)? t+=2 : t)
+          & (t < 1? rev = 0 : t)
           | ((t / 10) & (t >> 14) & (t>>15) & 0xaa)
 
         )
     );
   }
 }
+
 
 ```
 
