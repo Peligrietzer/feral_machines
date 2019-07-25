@@ -620,22 +620,26 @@ I was pretty happy with the way this one turned out:
 
 void main() {
   int t;
-  for (t=1;;t++) {
-    putchar(0xFF & (
+  for (t=0;;t++) {
+    putchar(
+        0xFF
+        & (
           t 
           & t >> 6
           & ((t % (1 << 14)) < (1 << 13)? 
-             t ^ (t >> 8)
+             t ^ t >> 8
              : t >> 8) 
           / (t <= 0? 1 : (1 + t % 32))
           ^ (t % 30)
           + ((t * (t>>18) * !(3 & t>>19)) & 0x0a)
-          ^ ((t * (t>>19)) & 0xe1) 
+          ^ ((t * (t>>19)) & 0xe1) //?
           | ((t / 10) & (t >> 14) & (t>>15) & 0xaa)
+
         )
     );
   }
 }
+
 ```
 
 To play it compile it, run it, and pipe the output into aplay:
@@ -653,6 +657,40 @@ temporal development into the tune. Bitwise & operations can be used to retrict
 the effects of other operations to certain bits and not others, treating each
 bit as a distinct track, in a way.
 
+The script below can be used to compile and encode this tune into a flac 
+file, if you have ffmpeg and sox installed:
+
+```
+#! /usr/bin/env bash
+
+prog=$1
+if [ -z "$prog" ]; then
+  echo "Usage: $0 <source>"
+  exit 1
+fi
+
+p=`basename $prog`
+bin="${p%.*}"
+raw=${bin}.raw
+wav=${bin}.wav
+flac=${bin}.flac
+
+gcc $prog -o $bin || exit 1
+
+./$bin | tee >(cat > /dev/null) >(xxd -g1 1>&2 ) | head -c 4M > ${raw}
+sox -r 8000 --no-dither --plot gnuplot -b8 -c1 -G -t u8 ${raw} ${wav}
+ffmpeg -i ${wav} -acodec flac ${flac}
+
+echo "[+] Executable compiled as ${bin}"
+echo "[+] Sound saved as ${wav}"
+echo "[+] FLAC encoding saved as ${flac}"
+play $flac
+
+```
+
+The resulting flac file can be found 
+[HERE](/data/drone.flac).
+
 A friend of mine described this technique as _minimal Komologorov complexity music_,
 music whose apparent sonic richness is nevertheless _algorithmically_ compressible.
 Interestingly, it tends to fare poorly under standard lossy compression codecs
@@ -661,6 +699,7 @@ _drastically_ change the sound. If nothing else, this offers an interesting pers
 on which aspects of sound, 
 [for the mp3 standard](https://computer.howstuffworks.com/mp31.htm),
 are held canonical and which are dismissed negligible.
+
 
 
 ---
