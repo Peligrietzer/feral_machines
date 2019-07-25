@@ -10,7 +10,7 @@
     [file('spirit_is_a_drider.md'),
      title('Spirit is a Drider'),
      author('Peli Grietzer & Lucca Fraser'),
-     tags(['d&d', hegel, psychoanalysis]),
+     tags(['d&d', hegel, psychoanalysis, shitposting]),
      abstract('On the subject of Elves.'),
      date('2019-02-24')], % guessing
 
@@ -77,22 +77,11 @@
      abstract('A poem I wrote a few years back -- in 2014, I think it was.'),
      tags([poetry])],
 
-    [file('abstraction.md'),
-     title('What do Leaky Abstractions Leak?'),
-     abstract('A short post on one concept of abstraction.'),
-     tags([draft, abstraction, weird_machines])],
-
     [file('LC_in_Bratislava.md'),
      title('A Question of Will: Laboria Cuboniks in Bratislava'),
      abstract('Transcript of a talk we gave in Bratislava, in 2017.'),
      author('Laboria Cuboniks'),
      tags([xenofeminism, memetics, ethics])],
-
-    [title('The Eight Primary Statements of the Tractatus, as Completed by GPT-2'),
-     file('statement_8.md'),
-     abstract('I fed the seven statements of Wittgenstein\'s Tractatus Logico-Philosophicus to the restricted GPT-2 model, and it generated an eighth.'),
-     author('Ludwig Wittgenstein & GPT-2'),
-     tags([machine_learning, philosophy, wittgenstein, draft])],
 
     [title('Pale River'),
      file('pale_river.md'),
@@ -116,11 +105,11 @@
      tags([xenofeminism, interview])
     ],
 
-    [title('Defrag Commit #0'),
+    [title('Defrag Commit Zero'),
      author('Lucca Fraser'),
-     abstract('A compilation of half-finished, half-started posts, which have been collecting dust and choking my sense of accomplishment in my ~/src/feral_machines/content/posts/scratch directory. I think I\'ll try to make a monthly (bi-monthly?) routine of these.'),
+     abstract('A compilation of half-finished, half-started posts, which have been collecting dust and choking my sense of accomplishment in my ~/src/feral_machines/content/posts/scratch directory. This quickly turned into a sprawling, incoherent omnibus of posts.'),
      file('defrag-0.md'),
      date('2019-07-23'),
-     tags([draft, misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
+     tags([misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
     ]
 ].

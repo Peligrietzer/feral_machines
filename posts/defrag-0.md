@@ -1,32 +1,40 @@
+
+
 After a sincerely ambitious beginning, this blog seems to have hit a fallow
 stretch. This isn't that surprising -- most of what I do, I do in fits and
 starts. But it was a little disappointing. I was busy and all that, of course,
-but I always am, and was when I started this blog, so I'm not going to heap the
+but I always am, and was when I started this blog, so I'm not going to pin the
 blame on that. It could have been entirely possible for me, I think, to
 discipline myself to 
 [write in stolen moments](/posts/lerman-whore_for_capitalism.md),
-like Lindsay put it. Another factor, I think, is just that I haven't quite
-gotten used to the idea of writing bloggishly -- somewhere between a
+like Lindsay put it. One pretty significant obstacle is just that I haven't quite
+gotten used to the idea of writing bloggishly -- which is somewhere between a
 conversation and a short paper, I suppose. I think I've been erring on the side
-of writing essayistically, holding myself up to (maybe disavowed) academic
-standards without having an academically allocated schedule in which I could
-really meet those standards.
+of writing essayistically, holding myself up to (disavowed?) academic
+standards without having an academically allocated schedule that would let me
+properly satisfy them.
+
+![defrag](/img/defrag-transparent.png)
 
 It's funny, because there definitely _are_ media, or genres, where I feel
 completely at ease in shooting from the hip -- it's what I really enjoy about
 giving interviews, for example, or conducting lectures and seminars, which I've
-always almost entirely improvised. I want to write with a bit more dedication
-and a bit less worry, I guess.
+always almost entirely improvised. I want to try to bring that here, and write
+with a bit more dedication and a bit less worry, I suppose.
 
-![defrag](/img/defrag-transparent.png)
 
 I figure that a good way to get things moving again would just be to go through
 the dozens of half-finished and half-started drafts that I have, sitting in 
 ~/src/feral_machines/content/posts/scratch, and give any that aren't completely hopeless
 a sentence or a paragraph (or several) in the sun, and move on. So, here it goes.
 
+
 ---
+
 # Table of Contents
+
+---
+
 
 1. [Lack and Leak](#lack)
 2. [Weird Machines and Eerie Algorithms](#weird)
@@ -45,6 +53,7 @@ a sentence or a paragraph (or several) in the sun, and move on. So, here it goes
 15. [The Eight Root Statements of the Tractatus Logico-Philosophicus as Completed by GPT-2](#eighth-statement)
 16. [Epilogue](#epilogue)
 
+
 ---
 
 # Fragments
@@ -58,17 +67,19 @@ a sentence or a paragraph (or several) in the sun, and move on. So, here it goes
 ---
 
 
-Over on the [&&&](https://tripleampersand.org/can-machine-lack-lacanian-computation)
-blog, Valentin Golev takes a couple of stabs at modeling the Lacanian concept of lack
--- specifically, that of a "lack in the Other", which is structurally critical to
-the formation of subjectivity, in the context of Lacanian psychoanalysis -- in
-the domain of computation. I didn't find it very compelling, on the whole, but there
-was one interesting moment in there, where _lack_ is essentially understood in terms
-that amount to _a leak in the abstraction layer called 'the Other'_. It's tempting
-to climb back up the wick of Golev's analogy, and see how far we can get, recasting
-psychoanalytic theory in computational, and specifically information-security
-oriented terms. Trauma as a 'weird state'? Symptoms as side-channels? Pathologies as
-weird machines? A long time ago, I remember seeing someone on twitter tweet
+Over on the
+[&&&](https://tripleampersand.org/can-machine-lack-lacanian-computation) blog,
+Valentin Golev takes a couple of stabs at modeling the Lacanian concept of lack
+-- specifically, that of a "lack in the Other", which is structurally critical
+to the formation of subjectivity, in the context of Lacanian psychoanalysis --
+in the domain of computation. I didn't find it very compelling, on the whole,
+but there was one interesting moment in there, where _lack_ is essentially
+understood in terms that amount to _a leak in the abstraction layer called 'the
+Other'_. It's tempting to climb back up the wick of Golev's analogy, and see how
+far we can get, recasting psychoanalytic theory in computational, and
+specifically information-security oriented terms. Trauma as a 'weird state'?
+Symptoms as side-channels? Pathologies as weird machines? A long time ago, I
+remember seeing someone on twitter (I think her handle was 'ʞ'?) tweet
 ```
 s/attack surface/erogenous zone/
 ```
@@ -575,15 +586,17 @@ every bit as arrogant and clueless as its object.
 
 There are, at least, five sources of obscurity that can affect philosophical writing:
 
-1. technical jargon (benign, non-vacuous, reducible)
+1. technical jargon (benign, non-vacuous, semantically reducible)
 
-2. poetic cognition (benign, non-vacuous, irreducible)
+2. poetic cognition (benign, non-vacuous, semantically irreducible)
 
-3. accidental ineloquence (neutral, non-vacuous, reducible)
+3. accidental ineloquence (neutral, non-vacuous, semantically reducible)
 
-4. shibboleths (pernicious, vacuous, irreducible)
+4. shibboleths (pernicious, vacuous, semantically irreducible)
 
-5. bullshit (pernicious, non-vacuous, irreducible)
+5. bullshit (pernicious, non-vacuous, semantically irreducible)
+
+There's also the obscurity of incomplete and elliptical notes. I'll come back to this.
 
 ---
 
