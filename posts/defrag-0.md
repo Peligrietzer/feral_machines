@@ -234,7 +234,7 @@ An analog that *does* leap to mind is:
 
 - [trans women are women](https://www.theroot.com/trans-women-are-women-this-isn-t-a-debate-1793202635)
 
-which certainly has the same logical form as "men aren't women" (which looks
+which sort of logically _resembles_ "men aren't women" (which looks
 like its reactionary counterpart), and which has the syntactic form of a
 tautology, as much as "red apples are apples" does. But I think that the analogy
 is ultimately superficial. Those who assert this statement generally *do not*
