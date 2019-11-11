@@ -110,12 +110,12 @@
      file('defrag-0.md'),
      date('2019-07-25'),
      tags([misc, psychoanalysis, aesthetics, weird_machines, machine_learning, feminism, populism, computer_science, ethics, comedy, philosophy, music, poetics, shitposting])
-    ],
-
-    [title('A Single, Ill-placed Line'),
-     author('Lucca Fraser'),
-     abstract(''),
-     file('beauty_and_fragility.md'),
-     tags([aesthetics, feminism])
     ]
+
+    %[title('A Single, Ill-placed Line'),
+    % author('Lucca Fraser'),
+    % abstract(''),
+    % file('beauty_and_fragility.md'),
+    % tags([aesthetics, feminism])
+    %]
 ].
