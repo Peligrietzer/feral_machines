@@ -88,6 +88,13 @@
      author('Lucca Fraser'),
      date('2019-04-15'),
      tags([poetry])],
+
+    [title('Lake Huron'),
+     file('anemone.md'),
+     abstract('A refurbished poem.'),
+     author('Lucca Fraser'),
+     date('2019-11-20'),
+     tags([poetry])],
      
     [title('Whore for Capitalism: On Publishing a Book'),
      file('lerman-whore_for_capitalism.md'),
