@@ -1,5 +1,3 @@
-# Lake Huron
-
 I remembered the anemone: its name, and the way that its syllables decay in the
 mouth. They're not seeds in a passerine's beak -- a nuthatch, for instance,
 pickled and stored in a jar that weeps and weeps through the label. The best I
