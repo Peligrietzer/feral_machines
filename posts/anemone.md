@@ -11,7 +11,7 @@ free. I named her Olivia, and crawled in her beak. I curled up to muffle the
 syllables. She was a bird, or a mollusc, but I can't remember. I do remember
 pressing my flesh into curls, which were boneless or brittle, but I can't
 remember. I pressed on the lid from the inside; it was rubberized, ring-locked,
-immobile. My hands were still weeping so the glass and the metal were wet. In
+immobile. My hands were still weeping, you see, so the glass and the metal were wet. In
 Spanish, Ontario, just off of Lake Huron, back at the hotel where we got the
 double.
 
