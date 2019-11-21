@@ -1,6 +1,6 @@
 # Lake Huron
 
-I thought of the anemone: its name, the way that its syllables decay in the
+I remembered the anemone: its name, the way that its syllables decay in the
 mouth. They're not seeds in a passerine's beak -- a nuthatch, for instance,
 pickled in formeldehyde, and stored in a jar that weeps through the label.  The
 best I can do is delay it, the moment it slips and is smashed on the ashphalt.
