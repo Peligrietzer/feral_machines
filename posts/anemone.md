@@ -2,9 +2,9 @@
 
 I remembered the anemone: its name, and the way that its syllables decay in the
 mouth. They're not seeds in a passerine's beak -- a nuthatch, for instance,
-pickled in formeldehyde, and stored in a jar that weeps through the label.  The
-best I can do is delay it, the moment it slips and is smashed on the ashphalt.
-The jar's pretty heavy, and my hands, incoherent.
+pickled and stored in a jar that weeps and weeps through the label. The best I
+can do is delay it, the moment it slips and is smashed on the ashphalt.  The
+jar's pretty heavy, and my hands, incoherent.
 
 The girl at the desk must've thought we're a couple and gave us the double for
 free. I named her Olivia, and crawled in her beak. I curled up to muffle the
