@@ -18,6 +18,6 @@ double.
 I'm able to sleep without falling. My feet end in wires that twist around
 branches and keep me in place until New Year's. But you know sleep is coming,
 anemone. The first day you bled you were certain. The first day you braided
-your hair. But sleep's not a jar. Sleep is the enemy's well-threaded ring.
+your hair. But sleep is not a jar. Sleep is the enemy's well-threaded ring.
 
 
