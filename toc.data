@@ -89,9 +89,11 @@
      date('2019-04-15'),
      tags([poetry])],
 
-    [title('Lake Huron'),
+    [
+;;title('Lake Huron'),
+title('If You\'re A Woman And You\'ve Felt Like This When You\'re Alone At Night, It\'s Not Just You'),
      file('anemone.md'),
-     abstract('A refurbished poem.'),
+     abstract('A revision of an earlier poem, "If You\'re A Woman And You\'ve Felt Like This When You\'re Alone At Night, It\'s Not Just You", originally posted on my mercifully forgotten tumblr, at https://scarcelymurmuring.tumblr.com/post/86300079067/if-youre-a-woman-and-youve-felt-like-this-when, and published in EEEL, which no longer exists.'),
      author('Lucca Fraser'),
      date('2019-11-20'),
      tags([poetry])],
