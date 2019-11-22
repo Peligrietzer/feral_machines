@@ -1,7 +1,7 @@
 I remembered the anemone: its name, and the way that its syllables decay in
 your mouth. They're not like the seeds you found in a passerine's beak, the beak of a nuthatch,
 for example, pickled and stored in a jar that weeps and weeps through the
-label.  The best I can do is delay it, the moment it slips and was smashed on
+label.  The best I can do is delay the moment it slips and is smashed on
 the ashphalt. The jar's pretty heavy, and my hands, incoherent.
 
 The girl at the desk must've thought we're a couple; she comped us the double
