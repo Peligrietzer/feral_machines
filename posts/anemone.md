@@ -1,5 +1,5 @@
 I remembered the anemone: its name, and the way that its syllables decay in
-your mouth. They're not like the seeds in a passerine's beak, the beak of a nuthatch,
+your mouth. They're not like the seeds you found in a passerine's beak, the beak of a nuthatch,
 for example, pickled and stored in a jar that weeps and weeps through the
 label.  The best I can do is delay it, the moment it slips and was smashed on
 the ashphalt. The jar's pretty heavy, and my hands, incoherent.
