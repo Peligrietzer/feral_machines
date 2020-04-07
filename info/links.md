@@ -8,7 +8,6 @@
 * [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 * [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
-* [Gwern](https://www.gwern.net) -- Gwern
 * [Human Iterations](http://humaniterations.net) -- William Gillis
 * [Kid MarsCat](https://kidmarscat.neocities.org) -- Cata Martinez / MarsCat / Lucca / etc. 
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
@@ -19,16 +18,12 @@
   -- Peter Watts
 * [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
-* [Slate Star Codex](https://slatestarcodex.com) -- Scott Alexander
-* [Speculum Criticum Traditionis](https://speculumcriticum.blogspot.com/) -- Skholiast
-* [Status 451](https://status451.com) -- Meredith Patterson et al
 * [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
 * [The Digital Antiquarian](https://www.filfre.net/) -- Jimmy Maher
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
-* [Transitional Space](https://transitionalspace1.blogspot.com) -- Benjamin Noys
 * [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al
 * [Second Balcony](http://secondbalcony.tumblr.com/) -- Peli Grietzer
@@ -41,6 +36,7 @@
 * [The View from Hell](https://theviewfromhellyes.wordpress.com/) -- Sarah Perry
 * [Semiotechnic Field Notes](http://field-notes.semiotechnic.net) -- Semiotechnician
 * [poetix](http://codepoetics.com/octoblog) -- Dominic Fox
+* [trannypunk](http://www.trannypunk.com/) -- Sybil Lamb
 
 # Libraries and Archives
 
