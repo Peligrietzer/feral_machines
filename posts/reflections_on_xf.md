@@ -322,6 +322,6 @@ teachings and psychotherapeutic theory, this is one of the reasons why.
 I might as well wrap it up, here. No need to try to be exhaustive. I'm sure
 I'll find myself drifting back over this territory again, sometime, in the
 future. Better to just let this stand as it is, I think -- a few notes,
-all pretty provisional, looking only to loosen a few knots here and there.
+all pretty provisional, looking to loosen a few knots here and there.
 
 
