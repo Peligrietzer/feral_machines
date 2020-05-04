@@ -80,8 +80,8 @@ would have been happy to alienate to another (to Laboria, our little leviathan).
 It's a weird mantle to wear.
 
 An early, lightly held goal for the character of Laboria Cuboniks, too, was
-that it was a mask that, in principle, anyone could take up, and speak
-from *it* instead of their own particularity. A bit of a gamble, I guess,
+for it to be a mask that, in principle, anyone could take up, to speak
+from *it* rather than their own particularity. A bit of a gamble, I guess,
 and it could've been a shitshow, but it's a little disappointing that this
 never quite happened. Maybe we retreated from this idea a little ourselves.
 Maybe, despite ourselves, we came to be a little too jealous of our creation,
