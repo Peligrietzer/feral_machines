@@ -39,16 +39,18 @@ decisions, and scraps from the cutting room floor -- these will help.
 They might recall certain contextual factors that, it turned out, were 
 necessary in order to make their intended meaning clear. 
 
-And I think what happens, here, is not just recollection but a kind of
-alternate composition: Reproduce the state of mind you were in when you wrote
-this, and tell me what you could have written instead, if you'd had let yourself
-be a bit more expansive, if you'd had let yourself be informed by thoughts that
-hadn't or couldn't have occurred to you at the time. The unity of the author's
-person acts ties the exposition back to the original text, joining them into a
-more or less coherent corpus. Any contradictions that arise in the process are
-contradictions that truly *ought* to be addressed, in the spirit of intellectual
-responsibility. I suppose that this is, at some level of abstraction, *part* of
-what it means to speak as someone in particular.
+And I think what happens, here, is not just recollection but a kind of alternate
+composition: Reproduce the state of mind you were in when you wrote this, and
+tell me what you could have written instead, if you'd had let yourself be a bit
+more expansive, if you'd had let yourself be informed by thoughts that hadn't or
+couldn't have occurred to you at the time. Or perhaps: tell me what you *would*
+mean by that passage, if you wrote it here and now. Or tell me what you still
+mean. The unity of the author's person acts ties the exposition back to the
+original text, joining them into a more or less coherent corpus. Any
+contradictions that arise in the process are contradictions that truly *ought*
+to be addressed, in the spirit of intellectual responsibility. I suppose that
+this is, at some level of abstraction, *part* of what it means to speak as
+someone in particular.
 
 There are aspects of the XFM's composition that make this kind of exposition
 easier than it might be for an author operating solo. The author of *that* 
