@@ -260,7 +260,7 @@ in mind, here.
 I suppose it's the dismissal of "the disciplinary grid of gender" that drew
 criticism, here -- the same that I've seen directed at, say, 
 Sandy Stone's ["The Empire Strikes Back: A Post-Transsexual Manifesto"](https://uberty.org/wp-content/uploads/2015/06/trans-manifesto.pdf):
-It may seem as if, just as we have manages to carve out more or less livable
+It may seem as if, just as we have managed to carve out more or less livable
 lives for ourselves, we're being told that if we truly want to lay any claim to
 dignity, we need to radicalize those gestures beyond the point of comfort -- a
 demand that doesn't appear to be made of the cis. We (and, it seems, we alone),
