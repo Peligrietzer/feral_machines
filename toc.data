@@ -127,6 +127,14 @@ title('If You\'re A Woman And You\'ve Felt Like This When You\'re Alone At Night
      file('bytebeat.md'),
      date('2019-12-12'),
      tags([music, bytebeat])
+    ],
+
+    [title('XF Seminar Postmortem'),
+     author('Lucca Fraser'),
+     abstract('Some notes following up on a seminar in McKenzie\'s "Trans Theory as Gender Theory" class, and reflections on the Xenofeminist Manifesto, about 5 years later.'),
+     file('reflections_on_xf.md'),
+     date('2020-05-03'),
+     tags([xenofeminism, draft])
     ]
 
     %[title('A Single, Ill-placed Line'),

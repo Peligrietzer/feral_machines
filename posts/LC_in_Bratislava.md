@@ -349,6 +349,8 @@ and relations that give rise to a will under consideration.
  
 I leave the rest to Lucca now.
 
+<a name="corruption"></a>
+
 # Superior Forms of Corruption
 
 **LF:** I suppose the thread where I want to pick up is just where Katrina left
@@ -371,11 +373,11 @@ something new, this is something that has been under critique for decades and
 decades, centuries even. But, I suppose our project is still trying to find what
 do we want; some sort of notion of collective self-control. We want some notion
 of being able to articulate these ambitious projects in a world that is noisy
-and chaotic and indeterminate. We don't want to just capitually, just abandon
+and chaotic and indeterminate. We don't want to just capitulate, just abandon
 these notions, just because they're sort of bogged down with this kind of heroic
 mythology, that makes them a constant hazard. So, the will, is not the moment
 where the desire or the agent can grasp themselves with completely transparency
-and presence. It is not the moment where you have completely control -- even if
+and presence. It is not the moment where you have complete control -- even if
 these moments exist and if we grant for the sake of argument that they do, at
 very best, they are very rare and very fragile. They are also almost always
 blind. The will has a certain opacity to itself.
@@ -446,8 +448,8 @@ and the way that every organism has to in its environment.
 This is the basic explanatory framework of memetics, kicked off by Richard
 Dawkins and developed at greater length by Susan Blackmore and others. And there
 are some really fascinating conjectures that like this dramatic encephalation of
-humans... that they needed hosts with large brains and so this became us. Whatever
-a meme could sort of encourage their population to favor brain size and
+humans... that they needed hosts with large brains and so this became us.
+Whatever a meme could sort of encourage their population to favor brain size and
 cognitive capacity for selection, those would tend to be more likely to thrive,
 down the line. So, there is leaning on that works the way a good parasite does
 with its host; and think of the really interesting parasites like toxoplasma, or
@@ -503,36 +505,35 @@ with the manifest, heroic mission for which they are the vehicle.
 
 So, there is this conflict there that, I think, has to be addressed, that can't
 be addressed through this heroic image of the will. It demands this, sort of,
-*counter-heroics*. A sort of meditation on the will that is constantly attentive to
-corruption. Not to eliminate corruption... if our brains were, and this might be
-a bit speculative here, selected for... our large gooey brains, constantly
-chattering to themselves, that dream, that yammer, that expend energy in ways that
-are virtually useless in terms of genetic selection ... they are not the sort of
-things that are going to be able to embark on such a pure and heroic
-path. But the thing is, if we can just understand how the memetic
-ecology that we work in operates, then maybe we can develop better techniques
-for manipulating that ecology. Find ways to work it that may be more productive
-and interesting.
+*counter-heroics*. A sort of meditation on the will that is constantly attentive
+to corruption. Not to eliminate corruption... if our brains were, and this might
+be a bit speculative here, selected for... our large gooey brains, constantly
+chattering to themselves, that dream, that yammer, that expend energy in ways
+that are virtually useless in terms of genetic selection ... they are not the
+sort of things that are going to be able to embark on such a pure and heroic
+path. But the thing is, if we can just understand how the memetic ecology that
+we work in operates, then maybe we can develop better techniques for
+manipulating that ecology. Find ways to work it that may be more productive and
+interesting.
 
-And one of the things that I've been curious about -- partly just because like
+And one of the things that I've been curious about -- partly just because I like
 to, think about everything I'm working on at once, and have a bit of a
 compulsion to transfer analogies from one domain I have my foot in over to
 another -- is to approach this problem of crafting better corruptive spheres of
 influence, of re-engineering the memetic ooze we swim in, and ask if we can
 treat this as a sort of artificial environment. To approach these problems the
 way we would in evolutionary computation, or genetic programming. I don't mean
-the programming of DNA, I mean the use of natural selection as a
-computational algorithm, for evolving programs that converge on unknown optima
-in a certain problem space. Can we treat the wonderfully rich cross-hatching of
-our evolutionary process that the memes bring us into -- can we treat this as
+the programming of DNA, I mean the use of natural selection as a computational
+algorithm, for evolving programs that converge on unknown optima in a certain
+problem space. Can we treat the wonderfully rich cross-hatching of our
+evolutionary process that the memes bring us into -- can we treat this as
 something that we can then engineer, the way we would approach analogous
 problems in machine learning? Can we treat our environment of memetic
 corruptions and incentives as a sort of artificial intelligence that we can then
 train, or engineer? (Not necessarily an artificial intelligence, but a swarm of
 artificial intelligences.)
 
-
-And this is the other thing, in computer science, when we use the genetic
+And this is the other thing, in computer science, when we use genetic
 programming and we take this approach –- it is a sub-discipline of
 machine-learning which is used to solve problems for which there are typically
 no known, tractable deterministic solutions, and is used to do something that

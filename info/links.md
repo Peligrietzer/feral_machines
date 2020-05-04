@@ -17,6 +17,7 @@
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
   -- Peter Watts
 * [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
+* [Public Seminar](https://publicseminar.org/) -- McKenzie Wark &co
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
 * [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
 * [The Digital Antiquarian](https://www.filfre.net/) -- Jimmy Maher
