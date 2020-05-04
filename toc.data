@@ -80,6 +80,7 @@
      title('A Question of Will: Laboria Cuboniks in Bratislava'),
      abstract('Transcript of a talk we gave in Bratislava, in 2017.'),
      author('Laboria Cuboniks'),
+     date('2019-04-10'),
      tags([xenofeminism, memetics, ethics])],
 
     [title('Pale River'),
