@@ -8,8 +8,8 @@
 * [Cute Bouncing Bunnies](https://cutebouncingbunnies.wordpress.com/) -- Annie Ogborn
 * [Deontologistics](https://deontologistics.wordpress.com/) -- Pete Wolfendale
 * [Enemy Industry](https://enemyindustry.wordpress.com) -- David Roden
+* [The Equalizing Jokebook](https://aaronnovick.com) -- Aaron Novick
 * [Human Iterations](http://humaniterations.net) -- William Gillis
-* [Kid MarsCat](https://kidmarscat.neocities.org) -- Cata Martinez / MarsCat / Lucca / etc. 
 * [Larval Subjects](https://larvalsubjects.wordpress.com/) -- Levi Bryant
 * [McHugh & Sons: Demolition, Salvage, & Construction](https://captainmchugh.wordpress.com) -- Pat McHugh
 * [Meaningness](https://meaningness.com) -- David Chapman
@@ -17,10 +17,8 @@
 * [No Moods, Ads or Cutesy Fucking Icons](https://www.rifters.com/crawl/)
   -- Peter Watts
 * [Pinocchio Theory](http://www.shaviro.com/Blog/) -- Steven Shaviro
-* [Public Seminar](https://publicseminar.org/) -- McKenzie Wark &co
 * [Shtetl-Optimized](https://www.scottaaronson.com/blog) -- Scott Aaronson
 * [The Charnel-House](https://thecharnelhouse.org/) -- Ross Wolfe
-* [The Digital Antiquarian](https://www.filfre.net/) -- Jimmy Maher
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
@@ -39,14 +37,16 @@
 * [poetix](http://codepoetics.com/octoblog) -- Dominic Fox
 * [trannypunk](http://www.trannypunk.com/) -- Sybil Lamb
 
-# Libraries and Archives
+# Libraries, Magazine, Archives, etc.
 
 * [Aaaarg](http://aaaarg.fail/)
 * [Gauss PDF](http://www.gauss-pdf.com/)
+* [Glass Bead](https://glass-bead.org)
 * [Jean-Yves Girard's Homepage](http://girard.perso.math.cnrs.fr/Accueil.html)
 * [Memory of the World](https://library.memoryoftheworld.org)
 * [Old Boys' Network](https://www.obn.org/inhalt_index.html)
 * [Phrack](http://www.phrack.org/)
+* [Public Seminar](https://publicseminar.org/) -- McKenzie Wark &co
 * [Robert Kowalski's Homepage](https://www.doc.ic.ac.uk/~rak/)
 * [The International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO)](https://www.alchemistowl.org/pocorgtfo/)
 * [Uberty](http://uberty.org/)
