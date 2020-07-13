@@ -22,6 +22,7 @@
 * [The Last Instance](https://thelastinstance.com) -- Dominic Fox
 * [The Real Movement](https://therealmovement.wordpress.com/) -- Jehu
 * [The Sooty Empiric](https://sootyempiric.blogspot.com/) -- Liam Bright
+* [Totalitarian Collectivism](https://totalitariancollectivist.wordpress.com/) - Cockydoody
 * [Toy Philosophy](https://toyphilosophy.com/) -- Reza Negarestani
 * [readthis.wtf](http://readthis.wtf/) -- Robin Mackay
 * [ribbonfarm](https://www.ribbonfarm.com/) -- Sarah Perry, Venkatesh Rao et al

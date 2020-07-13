@@ -35,6 +35,7 @@ super(philosophy, hegel).
 super(philosophy, sophistry).
 super(philosophy, academia).
 super(philosophy, ontology).
+super(philosophy, transcendental).
 
 super(interlocutors, the_last_instance).
 super(interlocutors, conflated_automatons).
