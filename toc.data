@@ -143,7 +143,7 @@ title('If You\'re A Woman And You\'ve Felt Like This When You\'re Alone At Night
      abstract('Peli and Jackie stayed up all night, talking about transcendental philosophy. This is the transcript.'),
      file('peli_and_jackie_transcendental.md'),
      date('2020-06-13'),
-     tags([philosophy, transcendental, conversation, draft])
+     tags([philosophy, transcendental, conversation])
     ]
 
     %[title('A Single, Ill-placed Line'),
