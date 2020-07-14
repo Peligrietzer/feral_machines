@@ -133,7 +133,7 @@ Peli and Jackie stayed up all night talking about philosophy and made a transcri
 
 **J:** relation to heidegger is that I think heidegger makes a real effort to say something like "the reason this attempt to find the conditions of the possibility of experience failed is because experience as such is not even a thing"
 
-**P:** the atomists didn't get the details of nature right but also it might have been fine for them not to exist. I don't think they are really vindicated by later atomic theory
+**J:** the atomists didn't get the details of nature right but also it might have been fine for them not to exist. I don't think they are really vindicated by later atomic theory
 
 **P:** it's more that they laid out the idea of reductive explanation and the distinction between appearances and physical reality in pretty much the right way, the atomists
 
